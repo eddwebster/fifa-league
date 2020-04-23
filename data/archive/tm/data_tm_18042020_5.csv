@@ -1,0 +1,818 @@
+position_number,position_description,name,dob,nationality,value
+67,Goalkeeper,Fraser Forster,"Mar 17, 1988 (32)",England,£5.85m
+1,Goalkeeper,Craig Gordon,"Dec 31, 1982 (37)",Scotland,£720k
+29,Goalkeeper,Scott Bain,"Nov 22, 1991 (28)",Scotland,£540k
+2,Centre-Back,Christopher Jullien,"Mar 22, 1993 (27)",France,£4.68m
+35,Centre-Back,Kristoffer Ajer,"Apr 17, 1998 (22)",Norway,£2.43m
+5,Centre-Back,Jozo Simunovic,"Aug 4, 1994 (25)",Croatia / Bosnia-Herzegovina,£2.25m
+33,Centre-Back,Hatem Abd Elhamed,"Mar 18, 1991 (29)",Israel,£653k
+23,Left-Back,Boli Bolingoli,"Jul 1, 1995 (24)",Belgium / DR Congo,£2.16m
+3,Left-Back,Greg Taylor,"Nov 5, 1997 (22)",Scotland,£720k
+59,Left-Back,Calvin Miller,"Jan 9, 1998 (22)",Scotland,£203k
+13,Right-Back,Moritz Bauer,"Jan 25, 1992 (28)",Austria / Switzerland,£1.44m
+30,Right-Back,Jeremie Frimpong,"Dec 10, 2000 (19)",Netherlands / Ghana,£1.17m
+6,Defensive Midfield,Nir Bitton,"Oct 30, 1991 (28)",Israel,£1.08m
+19,Defensive Midfield,Ismaila Soro,"May 7, 1998 (21)",Cote d'Ivoire,£900k
+28,Defensive Midfield,Luca Connell,"Apr 20, 2001 (18)",Ireland / England,£45k
+21,Central Midfield,Olivier Ntcham,"Feb 9, 1996 (24)",France / Cameroon,£3.60m
+42,Central Midfield,Callum McGregor,"Jun 14, 1993 (26)",Scotland,£3.60m
+8,Central Midfield,Scott Brown,"Jun 25, 1985 (34)",Scotland,£1.44m
+26,Central Midfield,Kundai Benyu,"Dec 12, 1997 (22)",Zimbabwe / England,£135k
+49,Right Midfield,James Forrest,"Jul 7, 1991 (28)",Scotland,£5.40m
+15,Right Midfield,Jonny Hayes,"Jul 9, 1987 (32)",Ireland,£540k
+17,Attacking Midfield,Ryan Christie,"Feb 22, 1995 (25)",Scotland,£4.32m
+18,Attacking Midfield,Tom Rogic,"Dec 16, 1992 (27)",Australia / Serbia,£1.80m
+27,Left Winger,Mohamed Elyounoussi,"Aug 4, 1994 (25)",Norway,£8.55m
+19,Left Winger,Mikey Johnston,"Apr 19, 1999 (21)",Scotland,£900k
+14,Left Winger,Daniel Arzani,"Jan 4, 1999 (21)",Australia / Iran,£810k
+20,Right Winger,Maryan Shved,"Jul 16, 1997 (22)",Ukraine,£1.08m
+22,Centre-Forward,Odsonne Edouard,"Jan 16, 1998 (22)",France / French Guiana,£12.15m
+11,Centre-Forward,Patryk Klimala,"Aug 5, 1998 (21)",Poland,£3.24m
+9,Centre-Forward,Leigh Griffiths,"Aug 20, 1990 (29)",Scotland,£1.44m
+10,Centre-Forward,Vakoun Issouf Bayo,"Jan 10, 1997 (23)",Cote d'Ivoire,£473k
+1,Goalkeeper,Allan McGregor,"Jan 31, 1982 (38)",Scotland,£540k
+13,Goalkeeper,Wes Foderingham,"Jan 14, 1991 (29)",England,£360k
+12,Goalkeeper,Andy Firth,"Sep 26, 1996 (23)",England,£45k
+6,Centre-Back,Connor Goldson,"Dec 18, 1992 (27)",England,£3.60m
+5,Centre-Back,Filip Helander,"Apr 22, 1993 (26)",Sweden,£1.44m
+19,Centre-Back,Nikola Katic,"Oct 10, 1996 (23)",Croatia,£1.44m
+4,Centre-Back,George Edmundson,"Aug 31, 1997 (22)",England,£495k
+31,Left-Back,Borna Barisic,"Nov 10, 1992 (27)",Croatia,£2.16m
+2,Right-Back,James Tavernier,"Oct 31, 1991 (28)",England,£4.32m
+15,Right-Back,Jon Flanagan,"Jan 1, 1993 (27)",England / Ireland,£855k
+25,Right-Back,Matt Polster,"Jun 8, 1993 (26)",United States,£428k
+18,Defensive Midfield,Glen Kamara,"Oct 28, 1995 (24)",Finland / Sierra Leone,£1.08m
+16,Defensive Midfield,Andy Halliday,"Oct 11, 1991 (28)",Scotland,£360k
+37,Central Midfield,Scott Arfield,"Nov 1, 1988 (31)",Canada / Scotland,£1.80m
+8,Central Midfield,Ryan Jack,"Feb 27, 1992 (28)",Scotland,£1.53m
+10,Central Midfield,Steven Davis,"Jan 1, 1985 (35)",Northern Ireland,£1.26m
+17,Central Midfield,Joe Aribo,"Jul 21, 1996 (23)",Nigeria / England,£900k
+7,Attacking Midfield,Ianis Hagi,"Oct 22, 1998 (21)",Romania / Turkey,£4.05m
+14,Left Winger,Ryan Kent,"Nov 11, 1996 (23)",England,£3.15m
+22,Left Winger,Jordan Jones,"Oct 24, 1994 (25)",Northern Ireland / England,£540k
+32,Left Winger,Jake Hastie,"Mar 18, 1998 (22)",Scotland,£360k
+21,Left Winger,Brandon Barker,"Oct 4, 1996 (23)",England,£293k
+11,Right Winger,Sheyi Ojo,"Jun 19, 1997 (22)",England / Nigeria,£1.44m
+20,Centre-Forward,Alfredo Morelos,"Jun 21, 1996 (23)",Colombia,£10.80m
+9,Centre-Forward,Jermain Defoe,"Oct 7, 1982 (37)",England / St. Lucia,£1.26m
+23,Centre-Forward,Florian Kamberi,"Mar 8, 1995 (25)",Albania / Switzerland,£540k
+24,Centre-Forward,Greg Stewart,"Mar 17, 1990 (30)",Scotland,£540k
+1,Goalkeeper,Joe Lewis,"Oct 6, 1987 (32)",England,£360k
+20,Goalkeeper,Tomas Cerny,"Apr 10, 1985 (35)",Czech Republic,£270k
+5,Centre-Back,Scott McKenna,"Nov 12, 1996 (23)",Scotland,£1.80m
+6,Centre-Back,Michael Devlin,"Oct 3, 1993 (26)",Scotland,£428k
+14,Centre-Back,Ash Taylor,"Sep 2, 1990 (29)",Wales / Scotland,£270k
+3,Left-Back,Greg Leigh,"Sep 30, 1994 (25)",England,£315k
+4,Left-Back,Andy Considine,"Apr 1, 1987 (33)",Scotland,£293k
+2,Right-Back,Shay Logan,"Jan 29, 1988 (32)",England,£293k
+8,Right-Back,Ronald Hernández,"Oct 4, 1997 (22)",Venezuela,£293k
+24,Defensive Midfield,Dean Campbell,"Mar 19, 2001 (19)",Scotland,£293k
+19,Central Midfield,Lewis Ferguson,"Aug 24, 1999 (20)",Scotland,£1.35m
+7,Central Midfield,Craig Bryson,"Nov 6, 1986 (33)",Scotland,£540k
+22,Central Midfield,Funso Ojo,"Aug 28, 1991 (28)",Belgium / Nigeria,£540k
+17,Central Midfield,Dylan McGeouch,"Jan 15, 1993 (27)",Scotland,£270k
+10,Left Winger,Niall McGinn,"Jul 20, 1987 (32)",Northern Ireland,£473k
+23,Left Winger,Matty Kennedy,"Nov 1, 1994 (25)",Northern Ireland / Scotland,£315k
+15,Left Winger,Scott Wright,"Aug 8, 1997 (22)",Scotland,£270k
+11,Right Winger,Ryan Hedges,"Jul 8, 1995 (24)",Wales / England,£360k
+18,Right Winger,Connor McLennan,"Oct 5, 1999 (20)",Scotland,£293k
+21,Right Winger,Jon Gallagher,"Feb 23, 1996 (24)",Ireland,£270k
+16,Centre-Forward,Sam Cosgrove,"Dec 2, 1996 (23)",England,£720k
+9,Centre-Forward,Curtis Main,"Jun 20, 1992 (27)",England,£270k
+25,Centre-Forward,Bruce Anderson,"Sep 23, 1998 (21)",Scotland,£225k
+23,Goalkeeper,Joel Pereira,"Jun 28, 1996 (23)",Portugal / Switzerland,£428k
+1,Goalkeeper,Zdenek Zlámal,"Nov 5, 1985 (34)",Czech Republic,£270k
+13,Goalkeeper,Colin Doyle,"Jun 12, 1985 (34)",Ireland,£135k
+4,Centre-Back,John Souttar,"Sep 25, 1996 (23)",Scotland,£1.08m
+26,Centre-Back,Craig Halkett,"May 29, 1995 (24)",Scotland,£428k
+28,Centre-Back,Clévid Dikamona,"Jun 23, 1990 (29)",Congo / France,£270k
+51,Left-Back,Aaron Hickey,"Jun 10, 2002 (17)",Scotland,£473k
+17,Left-Back,Benjamin Garuccio,"Jun 15, 1995 (24)",Australia / Italy,£270k
+3,Left-Back,Aidy White,"Oct 10, 1991 (28)",Ireland / England,£225k
+2,Right-Back,Michael Smith,"Sep 4, 1988 (31)",Northern Ireland,£495k
+35,Right-Back,Toby Sibbick,"May 23, 1999 (20)",England,£225k
+25,Right-Back,Jamie Brandon,"Feb 5, 1998 (22)",Scotland,£180k
+5,Defensive Midfield,Peter Haring,"Jun 2, 1993 (26)",Austria,£360k
+32,Defensive Midfield,Marcel Langer,"Feb 16, 1997 (23)",Germany,£45k
+7,Central Midfield,Oliver Bozanic,"Jan 8, 1989 (31)",Australia / Slovenia,£315k
+20,Central Midfield,Harry Cochrane,"Apr 24, 2001 (18)",Scotland,£315k
+22,Central Midfield,Loïc Damour,"Jan 8, 1991 (29)",France,£315k
+40,Central Midfield,Andy Irving,"May 13, 2000 (19)",Scotland,£293k
+8,Central Midfield,Sean Clare,"Sep 18, 1996 (23)",England,£248k
+21,Right Midfield,Anthony McDonald,"Mar 17, 2001 (19)",Scotland,£225k
+27,Left Midfield,Lewis Moore,"Jun 4, 1998 (21)",Scotland,£45k
+77,Attacking Midfield,Ryotaro Meshino,"Jun 18, 1998 (21)",Japan,£405k
+99,Left Winger,Donis Avdijaj,"Aug 25, 1996 (23)",Kosovo / Germany,£900k
+10,Left Winger,Jamie Walker,"Jun 25, 1993 (26)",Scotland,£270k
+41,Left Winger,Euan Henderson,"Jun 26, 2000 (19)",Scotland,£135k
+14,Second Striker,Steven Naismith,"Sep 14, 1986 (33)",Scotland,£900k
+9,Centre-Forward,Conor Washington,"May 18, 1992 (27)",Northern Ireland / England,£585k
+29,Centre-Forward,Liam Boyce,"Apr 8, 1991 (29)",Northern Ireland,£360k
+19,Centre-Forward,Uche Ikpeazu,"Feb 28, 1995 (25)",Uganda / England,£270k
+1,Goalkeeper,Ofir Marciano,"Oct 7, 1989 (30)",Israel,£293k
+27,Goalkeeper,Ádám Bogdán,"Sep 27, 1987 (32)",Hungary,£293k
+4,Centre-Back,Paul Hanlon,"Jan 20, 1990 (30)",Scotland,£428k
+25,Centre-Back,Ryan Porteous,"Mar 25, 1999 (21)",Scotland,£360k
+24,Centre-Back,Darren McGregor,"Aug 7, 1985 (34)",Scotland,£270k
+18,Centre-Back,Adam Jackson,"May 18, 1994 (25)",England,£203k
+16,Left-Back,Lewis Stevenson,"Jan 5, 1988 (32)",Scotland,£315k
+2,Right-Back,David Gray,"May 4, 1988 (31)",Scotland,£293k
+21,Right-Back,Jason Naismith,"Jun 25, 1994 (25)",Scotland,£293k
+6,Right-Back,Paul McGinn,"Oct 22, 1990 (29)",Scotland,£270k
+3,Right-Back,Steven Whittaker,"Jun 16, 1984 (35)",Scotland,£225k
+17,Right-Back,Tom James,"Apr 15, 1996 (24)",Wales,£180k
+40,Central Midfield,Stephane Omeonga,"Mar 27, 1996 (24)",Belgium / DR Congo,£720k
+14,Central Midfield,Stevie Mallan,"Mar 25, 1996 (24)",Scotland,£473k
+15,Central Midfield,Greg Docherty,"Sep 10, 1996 (23)",Scotland / Ireland,£360k
+8,Central Midfield,Vykintas Slivka,"Apr 29, 1995 (24)",Lithuania,£270k
+20,Central Midfield,Melker Hallberg,"Oct 20, 1995 (24)",Sweden,£270k
+7,Left Midfield,Daryl Horgan,"Aug 10, 1992 (27)",Ireland,£360k
+11,Left Midfield,Joe Newell,"Mar 15, 1993 (27)",England,£270k
+33,Left Midfield,Fraser Murray,"May 7, 1999 (20)",Scotland,£90k
+23,Attacking Midfield,Scott Allan,"Nov 28, 1991 (28)",Scotland,£428k
+10,Right Winger,Martin Boyle,"Apr 25, 1993 (26)",Australia / Scotland,£720k
+13,Centre-Forward,Marc McNulty,"Sep 14, 1992 (27)",Scotland,£585k
+9,Centre-Forward,Christian Doidge,"Aug 25, 1992 (27)",Wales,£473k
+20,Goalkeeper,Mark Gillespie,"Mar 27, 1992 (28)",England,£360k
+1,Goalkeeper,Trevor Carson,"Mar 5, 1988 (32)",Northern Ireland,£293k
+22,Centre-Back,Liam Donnelly,"Mar 7, 1996 (24)",Northern Ireland,£428k
+31,Centre-Back,Declan Gallagher,"Feb 13, 1991 (29)",Scotland,£293k
+5,Centre-Back,Peter Hartley,"Apr 3, 1988 (32)",England,£270k
+15,Centre-Back,Barry Maguire,"Apr 27, 1998 (21)",Scotland,£135k
+24,Centre-Back,Bevis Mugabi,"May 1, 1995 (24)",Uganda / England,£90k
+18,Left-Back,Charles Dunne,"Feb 13, 1993 (27)",Ireland / England,£293k
+3,Left-Back,Jake Carroll,"Aug 11, 1991 (28)",Ireland / England,£270k
+2,Right-Back,Richard Tait,"Dec 2, 1989 (30)",Scotland,£360k
+6,Defensive Midfield,Allan Campbell,"Jul 4, 1998 (21)",Scotland,£653k
+4,Defensive Midfield,Liam Grimshaw,"Feb 2, 1995 (25)",England,£293k
+52,Defensive Midfield,Mark O'Hara,"Dec 12, 1995 (24)",Scotland,£270k
+7,Central Midfield,David Turnbull,"Jul 10, 1999 (20)",Scotland,£1.62m
+19,Central Midfield,Liam Polworth,"Oct 12, 1994 (25)",Scotland,£360k
+8,Central Midfield,Casper Sloth,"Mar 26, 1992 (28)",Denmark,£225k
+16,Left Midfield,Christian Ilic,"Jul 22, 1996 (23)",Croatia,£225k
+17,Left Winger,Rolando Aarons,"Nov 16, 1995 (24)",England / Jamaica,£360k
+11,Left Winger,Sherwin Seedorf,"Mar 17, 1998 (22)",Netherlands / Suriname,£270k
+14,Left Winger,Jermaine Hylton,"Jun 28, 1993 (26)",England,£270k
+9,Centre-Forward,Tony Watt,"Dec 29, 1993 (26)",Scotland,£360k
+9,Centre-Forward,Chris Long,"Feb 25, 1995 (25)",England,£360k
+44,Centre-Forward,Mikael Ndjoli,"Dec 16, 1998 (21)",England,£203k
+12,Centre-Forward,Christy Manzinga,"Jan 31, 1995 (25)",Belgium,£45k
+12,Goalkeeper,Laurentiu Branescu,"Mar 30, 1994 (26)",Romania,£293k
+24,Goalkeeper,Jan Koprivec,"Jul 15, 1988 (31)",Slovenia,£293k
+13,Goalkeeper,Devlin Mackay,"Jan 23, 1997 (23)",Scotland,£45k
+17,Centre-Back,Stuart Findlay,"Sep 14, 1995 (24)",Scotland,£585k
+26,Centre-Back,Dario Del Fabro,"Mar 24, 1995 (25)",Italy / Poland,£293k
+19,Centre-Back,Kirk Broadfoot,"Aug 8, 1984 (35)",Scotland,£270k
+5,Centre-Back,Connor Johnson,"Mar 10, 1998 (22)",England,£45k
+14,Left-Back,Niko Hämäläinen,"Mar 5, 1997 (23)",Finland / United States,£293k
+3,Left-Back,Stephen Hendrie,"Jan 8, 1995 (25)",Scotland,£225k
+2,Right-Back,Stephen O'Donnell,"May 11, 1992 (27)",Scotland / Ireland,£495k
+22,Right-Back,Ross Millen,"Sep 28, 1994 (25)",Scotland,£135k
+15,Defensive Midfield,Mohamed El Makrini,"Jul 6, 1987 (32)",Netherlands / Morocco,£270k
+8,Central Midfield,Gary Dicker,"Jul 31, 1986 (33)",Ireland,£360k
+6,Central Midfield,Alan Power,"Jan 23, 1988 (32)",Ireland,£315k
+21,Central Midfield,Adam Frizzell,"Jan 22, 1998 (22)",Scotland,£180k
+29,Right Midfield,Chris Burke,"Dec 2, 1983 (36)",Scotland,£270k
+10,Left Winger,Greg Kiltie,"Jan 18, 1997 (23)",Scotland,£293k
+11,Left Winger,Harry Bunn,"Nov 21, 1992 (27)",England,£293k
+25,Left Winger,Harvey St Clair,"Nov 13, 1998 (21)",Scotland,£293k
+7,Right Winger,Rory McKenzie,"Oct 7, 1993 (26)",Scotland,£270k
+9,Centre-Forward,Eamonn Brophy,"Mar 10, 1996 (24)",Scotland,£473k
+27,Centre-Forward,Nicke Kabamba,"Feb 1, 1993 (27)",England,£90k
+1,Goalkeeper,Ross Laidlaw,"Jul 12, 1992 (27)",Scotland,£270k
+21,Goalkeeper,Nathan Baxter,"Nov 8, 1998 (21)",England,£68k
+5,Centre-Back,Callum Morris,"Feb 3, 1990 (30)",Northern Ireland / Ireland,£270k
+12,Centre-Back,Tom Grivosti,"Jun 15, 1999 (20)",England,£270k
+25,Centre-Back,Coll Donaldson,"Apr 9, 1995 (25)",Scotland,£270k
+4,Centre-Back,Liam Fontaine,"Jan 7, 1986 (34)",England,£180k
+3,Left-Back,Sean Kelly,"Nov 1, 1993 (26)",Scotland,£270k
+2,Right-Back,Marcus Fraser,"Jun 23, 1994 (25)",Scotland,£315k
+15,Right-Back,Keith Watson,"Nov 14, 1989 (30)",Scotland,£270k
+18,Right-Back,Ricky Foster,"Jul 31, 1985 (34)",Scotland,£225k
+22,Defensive Midfield,Jordan Tillson,"Mar 5, 1993 (27)",England,£135k
+6,Central Midfield,Ross Draper,"Oct 20, 1988 (31)",England,£270k
+23,Central Midfield,Joe Chalmers,"Jan 3, 1994 (26)",Scotland,£270k
+16,Central Midfield,Lewis Spence,"Jan 28, 1996 (24)",Scotland,£225k
+24,Central Midfield,Harry Paton,"May 23, 1998 (21)",Canada / England,£180k
+14,Right Midfield,Josh Mullin,"Sep 23, 1992 (27)",Scotland,£360k
+26,Right Midfield,Don Cowie,"Feb 15, 1983 (37)",Scotland,£135k
+11,Left Midfield,Iain Vigurs,"May 7, 1988 (31)",Scotland,£270k
+20,Right Winger,Blair Spittal,"Dec 19, 1995 (24)",Scotland,£293k
+7,Right Winger,Michael Gardyne,"Jan 23, 1986 (34)",Scotland,£270k
+27,Centre-Forward,Ross Stewart,"Sep 1, 1996 (23)",Scotland,£360k
+19,Centre-Forward,Oli Shaw,"Sep 12, 1998 (21)",Scotland,£315k
+8,Centre-Forward,Lee Erwin,"Mar 19, 1994 (26)",Scotland,£293k
+9,Centre-Forward,Billy McKay,"Oct 22, 1988 (31)",Northern Ireland / England,£270k
+1,Goalkeeper,Robbie McCrorie,"Mar 18, 1998 (22)",Scotland,£180k
+31,Goalkeeper,Ryan Schofield,"Dec 11, 1999 (20)",England,£135k
+40,Goalkeeper,Gary Maley,"Aug 3, 1982 (37)",Scotland,£23k
+25,Centre-Back,Efe Eric Ambrose,"Oct 18, 1988 (31)",Nigeria,£360k
+4,Centre-Back,Alan Lithgow,"Mar 12, 1988 (32)",Scotland,£270k
+5,Centre-Back,Ricki Lamie,"Jun 20, 1993 (26)",Scotland,£270k
+27,Centre-Back,Jon Guthrie,"Mar 2, 1992 (28)",England,£270k
+15,Centre-Back,Cécé Pepe,"Nov 9, 1996 (23)",France / Cote d'Ivoire,£135k
+3,Centre-Back,Ciaron Brown,"Jan 14, 1998 (22)",Northern Ireland / England,£68k
+21,Left-Back,Jack McMillan,"Dec 18, 1997 (22)",Scotland,£270k
+29,Left-Back,Aaron Taylor-Sinclair,"Apr 8, 1991 (29)",Scotland,£180k
+33,Right-Back,Steve Lawson,"Aug 8, 1994 (25)",Togo / France,£225k
+2,Right-Back,Nicky Devlin,"Oct 17, 1993 (26)",Scotland,£180k
+14,Right-Back,Hakeem Odoffin,"Apr 13, 1998 (22)",England / Nigeria,£90k
+6,Defensive Midfield,Marvin Bartley,"Jul 4, 1986 (33)",England / Jamaica,£270k
+8,Central Midfield,Scott Pittman,"Jul 9, 1992 (27)",Scotland / United States,£293k
+16,Central Midfield,Robbie Crawford,"Jun 22, 1994 (25)",Scotland,£293k
+17,Central Midfield,Scott Robinson,"Mar 11, 1992 (28)",Scotland,£270k
+7,Right Midfield,Keaghan Jacobs,"Sep 9, 1989 (30)",South Africa / Scotland,£270k
+19,Attacking Midfield,Chris Erskine,"Feb 8, 1987 (33)",Scotland,£270k
+37,Attacking Midfield,Craig Henderson,"Mar 15, 2001 (19)",Scotland,£45k
+11,Left Winger,Steven Lawless,"Apr 12, 1991 (29)",Scotland,£360k
+10,Left Winger,Craig Sibbald,"May 18, 1995 (24)",Scotland,£270k
+20,Left Winger,Aymen Souda,"Feb 28, 1993 (27)",France / Tunisia,£225k
+9,Centre-Forward,Lyndon Dykes,"Oct 7, 1995 (24)",Scotland / Australia,£428k
+24,Centre-Forward,Dolly Menga,"May 2, 1993 (26)",Angola / Belgium,£225k
+1,Goalkeeper,Zander Clark,"Jun 26, 1992 (27)",Scotland,£270k
+12,Goalkeeper,Elliot Parish,"May 20, 1990 (29)",England / Wales,£180k
+48,Goalkeeper,Max Johnstone,"Aug 18, 1998 (21)",England,£45k
+15,Centre-Back,Jason Kerr,"Feb 6, 1997 (23)",Scotland,£428k
+2,Centre-Back,Wallace Duffy,"Apr 12, 1999 (21)",Scotland,£225k
+4,Centre-Back,Jamie McCart,"Jun 20, 1997 (22)",Scotland,£225k
+23,Centre-Back,Liam Gordon,"Jan 26, 1996 (24)",Scotland,£180k
+3,Left-Back,Scott Tanser,"Oct 23, 1994 (25)",England,£315k
+24,Left-Back,Callum Booth,"May 30, 1991 (28)",Scotland,£270k
+21,Right-Back,Anthony Ralston,"Nov 16, 1998 (21)",Scotland,£405k
+16,Defensive Midfield,Matt Butcher,"May 14, 1997 (22)",England,£68k
+8,Central Midfield,Murray Davidson,"Mar 7, 1988 (32)",Scotland,£315k
+19,Central Midfield,Jason Holt,"Feb 19, 1993 (27)",Scotland,£293k
+18,Central Midfield,Ali McCann,"Dec 4, 1999 (20)",Northern Ireland / Scotland,£270k
+10,Right Midfield,David Wotherspoon,"Jan 16, 1990 (30)",Canada / Scotland,£293k
+11,Right Midfield,Danny Swanson,"Dec 28, 1986 (33)",Scotland,£225k
+26,Left Midfield,Liam Craig,"Dec 27, 1986 (33)",Scotland,£270k
+17,Left Winger,Michael O'Halloran,"Jan 6, 1991 (29)",Scotland,£270k
+20,Left Winger,Isaiah Jones,"Aug 8, 2001 (18)",England,£45k
+7,Right Winger,Drey Wright,"Apr 30, 1995 (24)",England / Jamaica,£270k
+14,Centre-Forward,Stevie May,"Nov 2, 1992 (27)",Scotland,£293k
+9,Centre-Forward,Chris Kane,"Sep 5, 1994 (25)",Scotland,£225k
+22,Centre-Forward,Callum Hendry,"Dec 8, 1997 (22)",Scotland,£135k
+23,Goalkeeper,Ryan Fulton,"May 23, 1996 (23)",Scotland / England,£135k
+31,Goalkeeper,Luke Southwood,"Dec 6, 1997 (22)",England,£90k
+22,Goalkeeper,Kyle Gourlay,"Sep 24, 1998 (21)",Scotland,£45k
+13,Centre-Back,Alex Gogic,"Apr 13, 1994 (26)",Cyprus / Serbia,£270k
+40,Centre-Back,Jamie Hamilton,"Mar 1, 2002 (18)",Scotland,£270k
+21,Centre-Back,Shaun Want,"Feb 9, 1997 (23)",Scotland,£225k
+4,Centre-Back,Ciaran McKenna,"Mar 25, 1998 (22)",Scotland,£135k
+5,Centre-Back,Markus Fjörtoft,"Jan 12, 1994 (26)",Norway,£135k
+12,Centre-Back,Sam Woods,"Sep 11, 1998 (21)",England,£68k
+3,Left-Back,Scott McMann,"Jul 9, 1996 (23)",Scotland,£293k
+24,Left-Back,Brian Easton,"Mar 5, 1988 (32)",Scotland,£270k
+6,Left-Back,Johnny Hunt,"Aug 23, 1990 (29)",England / Wales,£90k
+2,Right-Back,Aaron McGowan,"Jul 24, 1996 (23)",England,£270k
+7,Defensive Midfield,Will Collar,"Feb 3, 1997 (23)",England,£113k
+28,Central Midfield,Lewis Smith,"Mar 16, 2000 (20)",Scotland,£293k
+25,Central Midfield,Scott Martin,"Apr 1, 1997 (23)",Scotland,£270k
+33,Central Midfield,Reegan Mimnaugh,"Dec 18, 2001 (18)",Scotland,£135k
+10,Right Midfield,Blair Alston,"Mar 23, 1992 (28)",Scotland,£270k
+16,Left Winger,David Templeton,"Jan 7, 1989 (31)",Scotland,£225k
+26,Left Winger,Andy Dales,"Nov 13, 1994 (25)",England,£90k
+9,Centre-Forward,George Oakley,"Nov 18, 1995 (24)",England,£270k
+11,Centre-Forward,Mickel Miller,"Dec 2, 1995 (24)",England / Jamaica,£270k
+8,Centre-Forward,Steve Davies,"Dec 29, 1987 (32)",England,£225k
+99,Centre-Forward,Marios Ogboe,"Oct 10, 1994 (25)",Greece / Nigeria,£225k
+20,Centre-Forward,David Moyo,"Dec 17, 1994 (25)",Zimbabwe / England,£90k
+1,Goalkeeper,Vaclav Hladky,"Nov 14, 1990 (29)",Czech Republic,£360k
+27,Goalkeeper,Peter Urminsky,"May 24, 1999 (20)",Slovakia,£68k
+26,Goalkeeper,Dean Lyness,"Jul 20, 1991 (28)",England,£45k
+6,Centre-Back,Gary MacKenzie,"Oct 15, 1985 (34)",Scotland,£135k
+5,Centre-Back,Conor McCarthy,"Apr 11, 1998 (22)",Ireland,£90k
+22,Centre-Back,Akin Famewo,"Nov 9, 1998 (21)",England / Nigeria,£23k
+3,Left-Back,Calum Waters,"Mar 10, 1996 (24)",Scotland,£180k
+2,Right-Back,Lee Hodson,"Oct 2, 1991 (28)",Northern Ireland / England,£180k
+10,Central Midfield,Tony Andreu,"May 22, 1988 (31)",France,£293k
+4,Central Midfield,Stephen McGinn,"Dec 2, 1988 (31)",Scotland,£270k
+16,Central Midfield,Sam Foley,"Oct 17, 1986 (33)",Ireland / England,£225k
+24,Central Midfield,Cameron MacPherson,"Dec 29, 1998 (21)",Scotland,£180k
+29,Right Midfield,Ross Wallace,"May 23, 1985 (34)",Scotland,£360k
+7,Right Midfield,Kyle Magennis,"Aug 26, 1998 (21)",Scotland,£293k
+8,Right Midfield,Ryan Flynn,"Sep 4, 1988 (31)",Scotland,£270k
+11,Left Midfield,Ilkay Durmus,"May 1, 1994 (25)",Turkey / Germany,£270k
+23,Left Midfield,Oan Djorkaeff,"Apr 30, 1997 (22)",France,£45k
+14,Right Winger,Kyle McAllister,"Jan 21, 1999 (21)",Scotland,£270k
+17,Second Striker,Jamie McGrath,"Sep 30, 1996 (23)",Ireland,£68k
+18,Centre-Forward,Danny Mullen,"Mar 1, 1995 (25)",Scotland,£270k
+9,Centre-Forward,Jonathan Obika,"Sep 12, 1990 (29)",England / Nigeria,£225k
+19,Centre-Forward,Junior Morias,"Jul 4, 1995 (24)",England / Jamaica,£203k
+21,Centre-Forward,Seifedin Chabbi,"Jul 4, 1993 (26)",Austria / Tunisia,£135k
+20,Centre-Forward,Cody Cooke,"Mar 2, 1993 (27)",England,£90k
+28,Centre-Forward,Alex Jakubiak,"Aug 27, 1996 (23)",Scotland / Poland,£90k
+1,Goalkeeper,Fernando Muslera,"Jun 16, 1986 (33)",Uruguay / Italy,£3.60m
+34,Goalkeeper,Okan Kocuk,"Jul 27, 1995 (24)",Turkey,£585k
+27,Centre-Back,Christian Luyindama,"Jan 8, 1994 (26)",DR Congo,£4.95m
+45,Centre-Back,Marcão,"Jun 5, 1996 (23)",Brazil,£2.88m
+15,Centre-Back,Ryan Donk,"Mar 30, 1986 (34)",Netherlands / Suriname,£720k
+5,Centre-Back,Ahmet Calik,"Feb 26, 1994 (26)",Turkey,£360k
+40,Centre-Back,Emin Bayram,"Apr 2, 2003 (17)",Turkey,£45k
+36,Left-Back,Marcelo Saracchi,"Apr 23, 1998 (21)",Uruguay,£8.10m
+55,Left-Back,Yuto Nagatomo,"Sep 12, 1986 (33)",Japan,£720k
+14,Right-Back,Martin Linnes,"Sep 20, 1991 (28)",Norway,£1.08m
+22,Right-Back,Mariano,"Jun 23, 1986 (33)",Brazil,£900k
+2,Right-Back,Sener Özbayrakli,"Jan 23, 1990 (30)",Turkey,£293k
+99,Defensive Midfield,Mario Lemina,"Sep 1, 1993 (26)",Gabon / France,£9.45m
+6,Central Midfield,Jean Michaël Seri,"Jul 19, 1991 (28)",Cote d'Ivoire,£8.55m
+48,Central Midfield,Taylan Antalyali,"Jan 8, 1995 (25)",Turkey,£855k
+8,Central Midfield,Selcuk Inan,"Feb 10, 1985 (35)",Turkey,£270k
+30,Central Midfield,Atalay Babacan,"Jun 28, 2000 (19)",Turkey,£135k
+19,Left Midfield,Ömer Bayram,"Jul 27, 1991 (28)",Turkey / Netherlands,£2.52m
+10,Attacking Midfield,Younès Belhanda,"Feb 25, 1990 (30)",Morocco / France,£3.60m
+20,Attacking Midfield,Emre Akbaba,"Oct 4, 1992 (27)",Turkey / France,£2.16m
+70,Left Winger,Henry Onyekuru,"Jun 5, 1997 (22)",Nigeria,£7.20m
+89,Right Winger,Sofiane Feghouli,"Dec 26, 1989 (30)",Algeria / France,£5.40m
+17,Right Winger,Yunus Akgün,"Jul 7, 2000 (19)",Turkey,£1.17m
+21,Right Winger,Jimmy Durmaz,"Mar 22, 1989 (31)",Sweden / Turkey,£900k
+28,Right Winger,Jesse Sekidika,"Jul 14, 1996 (23)",Nigeria,£653k
+9,Centre-Forward,Falcao,"Feb 10, 1986 (34)",Colombia,£4.32m
+23,Centre-Forward,Florin Andone,"Apr 11, 1993 (27)",Romania / Spain,£2.88m
+7,Centre-Forward,Adem Büyük,"Aug 30, 1987 (32)",Turkey,£810k
+1,Goalkeeper,Ugurcan Cakir,"Apr 5, 1996 (24)",Turkey,£8.55m
+16,Goalkeeper,Erce Kardesler,"Mar 14, 1994 (26)",Turkey,£360k
+13,Goalkeeper,Arda Akbulut,"Jan 1, 2001 (19)",Turkey,£270k
+4,Centre-Back,Hüseyin Türkmen,"Jan 1, 1998 (22)",Turkey,£2.88m
+5,Centre-Back,Majid Hosseini,"Jun 20, 1996 (23)",Iran,£1.80m
+22,Centre-Back,Gastón Campi,"Apr 6, 1991 (29)",Argentina / Italy,£1.26m
+23,Centre-Back,Manoel,"Feb 26, 1990 (30)",Brazil,£1.08m
+27,Centre-Back,Manuel da Costa,"May 6, 1986 (33)",Morocco / Portugal,£428k
+39,Centre-Back,Atakan Gündüz,"Jan 1, 2001 (19)",Turkey,£45k
+77,Left-Back,Filip Novak,"Jun 26, 1990 (29)",Czech Republic,£2.52m
+33,Left-Back,Abdurrahim Dursun,"Dec 1, 1998 (21)",Turkey,£405k
+90,Right-Back,Serkan Asan,"Apr 28, 1999 (20)",Turkey,£450k
+2,Right-Back,Kamil Cörekci,"Feb 1, 1992 (28)",Turkey / England,£293k
+47,Right-Back,João Pereira,"Feb 25, 1984 (36)",Portugal,£293k
+21,Defensive Midfield,Dogan Erdogan,"Aug 22, 1996 (23)",Turkey,£585k
+15,Central Midfield,Badou Ndiaye,"Oct 27, 1990 (29)",Senegal,£6.12m
+61,Central Midfield,Abdulkadir Parmak,"Dec 28, 1994 (25)",Turkey,£2.25m
+8,Central Midfield,José Sosa,"Jun 19, 1985 (34)",Argentina,£2.16m
+10,Right Midfield,Abdülkadir Ömür,"Jun 25, 1999 (20)",Turkey,£11.25m
+38,Attacking Midfield,Ahmet Canbaz,"Apr 27, 1998 (21)",Turkey,£135k
+50,Attacking Midfield,Kerem Baykus,"Feb 5, 2000 (20)",Turkey,£113k
+9,Left Winger,Anthony Nwakaeme,"Mar 21, 1989 (31)",Nigeria,£3.60m
+45,Left Winger,Bilal Basacikoglu,"Mar 26, 1995 (25)",Turkey / Netherlands,£653k
+6,Right Winger,Guilherme,"May 21, 1991 (28)",Brazil,£2.88m
+20,Right Winger,Yusuf Sari,"Nov 20, 1998 (21)",Turkey / France,£1.17m
+11,Centre-Forward,Alexander Sörloth,"Dec 5, 1995 (24)",Norway,£11.70m
+18,Centre-Forward,Caleb Ekuban,"Mar 23, 1994 (26)",Ghana / Italy,£2.88m
+28,Centre-Forward,Salih Kavrazli,"Mar 16, 2002 (18)",Turkey,£45k
+98,Goalkeeper,Altay Bayindir,"Apr 14, 1998 (22)",Turkey,£4.86m
+35,Goalkeeper,Harun Tekin,"Jun 17, 1989 (30)",Turkey,£720k
+13,Goalkeeper,Oytun Özdogan,"Jun 16, 1998 (21)",Turkey,£45k
+54,Goalkeeper,Erten Ersu,"Apr 21, 1994 (25)",Turkey,£45k
+2,Centre-Back,Simon Falette,"Feb 19, 1992 (28)",Guinea / France,£2.16m
+15,Centre-Back,Serdar Aziz,"Oct 23, 1990 (29)",Turkey,£1.80m
+18,Centre-Back,Sadik Ciftpinar,"Jan 1, 1993 (27)",Turkey,£585k
+3,Left-Back,Hasan Ali Kaldirim,"Dec 9, 1989 (30)",Turkey / Germany,£1.53m
+4,Right-Back,Mauricio Isla,"Jun 12, 1988 (31)",Chile,£855k
+28,Right-Back,Murat Saglam,"Apr 10, 1998 (22)",Turkey / Germany,£270k
+20,Defensive Midfield,Luiz Gustavo,"Jul 23, 1987 (32)",Brazil / Germany,£4.95m
+25,Defensive Midfield,Jailson,"Sep 7, 1995 (24)",Brazil,£3.60m
+7,Central Midfield,Ozan Tufan,"Mar 23, 1995 (25)",Turkey,£4.05m
+6,Central Midfield,Tolgay Arslan,"Aug 16, 1990 (29)",Germany / Turkey,£1.08m
+14,Central Midfield,Tolga Cigerci,"Mar 23, 1992 (28)",Turkey / Germany,£1.08m
+5,Central Midfield,Emre Belözoglu,"Sep 7, 1980 (39)",Turkey,£360k
+23,Right Midfield,Deniz Türüc,"Jan 29, 1993 (27)",Turkey / Netherlands,£2.52m
+17,Right Midfield,Nabil Dirar,"Feb 25, 1986 (34)",Morocco / Belgium,£720k
+52,Right Midfield,Muhammed Gümüskaya,"Jan 1, 2001 (19)",Turkey,£90k
+21,Attacking Midfield,Miha Zajc,"Jul 1, 1994 (25)",Slovenia,£2.88m
+16,Attacking Midfield,Ferdi Kadioglu,"Oct 7, 1999 (20)",Netherlands / Turkey,£2.25m
+26,Attacking Midfield,Alper Potuk,"Apr 8, 1991 (29)",Turkey,£428k
+8,Attacking Midfield,Mehmet Ekici,"Mar 25, 1990 (30)",Turkey / Germany,£405k
+30,Attacking Midfield,Ömer Beyaz,"Aug 29, 2003 (16)",Turkey,£90k
+24,Left Winger,Garry Rodrigues,"Nov 27, 1990 (29)",Cape Verde / Netherlands,£4.95m
+10,Second Striker,Max Kruse,"Mar 19, 1988 (32)",Germany,£7.65m
+94,Centre-Forward,Vedat Muriqi,"Apr 24, 1994 (25)",Kosovo / Albania,£8.55m
+9,Centre-Forward,Mevlüt Erdinc,"Feb 25, 1987 (33)",Turkey / France,£495k
+19,Centre-Forward,Allahyar Sayyadmanesh,"Jun 29, 2001 (18)",Iran,£315k
+1,Goalkeeper,Loris Karius,"Jun 22, 1993 (26)",Germany,£2.88m
+97,Goalkeeper,Utku Yuvakuran,"Nov 2, 1997 (22)",Turkey,£270k
+30,Goalkeeper,Ersin Destanoglu,"Jan 1, 2001 (19)",Turkey,£45k
+24,Centre-Back,Domagoj Vida,"Apr 29, 1989 (30)",Croatia,£5.85m
+4,Centre-Back,Víctor Ruiz,"Jan 25, 1989 (31)",Spain,£2.88m
+3,Centre-Back,Enzo Roco,"Aug 16, 1992 (27)",Chile,£540k
+12,Centre-Back,Erdogan Kaya,"Mar 27, 2001 (19)",Turkey,£68k
+23,Left-Back,Pedro Rebocho,"Jan 23, 1995 (25)",Portugal,£1.53m
+88,Left-Back,Caner Erkin,"Oct 4, 1988 (31)",Turkey,£1.08m
+33,Left-Back,Ridvan Yilmaz,"May 21, 2001 (18)",Turkey,£45k
+5,Right-Back,Douglas,"Aug 6, 1990 (29)",Brazil,£1.08m
+77,Right-Back,Gökhan Gönül,"Jan 4, 1985 (35)",Turkey,£405k
+15,Defensive Midfield,Mohamed Elneny,"Jul 11, 1992 (27)",Egypt,£4.50m
+20,Defensive Midfield,Necip Uysal,"Jan 24, 1991 (29)",Turkey,£608k
+13,Defensive Midfield,Atiba Hutchinson,"Feb 8, 1983 (37)",Canada / Trinidad and Tobago,£293k
+26,Central Midfield,Dorukhan Toköz,"May 21, 1996 (23)",Turkey,£4.32m
+41,Central Midfield,Kartal Yilmaz,"Nov 4, 2000 (19)",Turkey,£45k
+22,Attacking Midfield,Adem Ljajic,"Sep 29, 1991 (28)",Serbia,£8.10m
+99,Attacking Midfield,Kevin-Prince Boateng,"Mar 6, 1987 (33)",Ghana / Germany,£2.88m
+19,Left Winger,Georges-Kevin N'Koudou,"Feb 13, 1995 (25)",France / Cameroon,£3.15m
+11,Left Winger,Tyler Boyd,"Dec 30, 1994 (25)",United States / New Zealand,£1.44m
+92,Right Winger,Abdoulay Diaby,"May 21, 1991 (28)",Mali / France,£3.60m
+27,Right Winger,Jeremain Lens,"Nov 24, 1987 (32)",Netherlands / Suriname,£1.44m
+9,Centre-Forward,Güven Yalcin,"Jan 18, 1999 (21)",Turkey / Germany,£2.88m
+17,Centre-Forward,Burak Yilmaz,"Jul 15, 1985 (34)",Turkey,£1.26m
+8,Centre-Forward,Umut Nayir,"Jun 28, 1993 (26)",Turkey,£855k
+34,Goalkeeper,Mert Günok,"Mar 1, 1989 (31)",Turkey,£3.60m
+1,Goalkeeper,Volkan Babacan,"Aug 11, 1988 (31)",Turkey,£270k
+13,Goalkeeper,Ahmet Kivanc,"Apr 29, 1998 (21)",Turkey,£45k
+6,Centre-Back,Alexandru Epureanu,"Sep 27, 1986 (33)",Moldova / Russia,£1.26m
+26,Centre-Back,Ponck,"Jan 13, 1995 (25)",Cape Verde / Portugal,£1.08m
+37,Centre-Back,Martin Skrtel,"Dec 15, 1984 (35)",Slovakia,£720k
+3,Left-Back,Gaël Clichy,"Jul 26, 1985 (34)",France / Martinique,£1.08m
+23,Left-Back,Aziz Behich,"Dec 16, 1990 (29)",Australia / Turkey,£585k
+80,Right-Back,Júnior Caiçara,"Apr 27, 1989 (30)",Brazil / Bulgaria,£2.16m
+33,Right-Back,Ugur Ucar,"Apr 5, 1987 (33)",Turkey,£135k
+21,Defensive Midfield,Mahmut Tekdemir,"Jan 20, 1988 (32)",Turkey,£1.26m
+5,Defensive Midfield,Mehmet Topal,"Mar 3, 1986 (34)",Turkey,£810k
+88,Defensive Midfield,Gökhan Inler,"Jun 27, 1984 (35)",Switzerland / Turkey,£135k
+17,Central Midfield,Irfan Can Kahveci,"Jul 15, 1995 (24)",Turkey,£6.30m
+44,Central Midfield,Okechukwu Azubuike,"Apr 19, 1997 (23)",Nigeria,£1.44m
+7,Right Midfield,Edin Visca,"Feb 17, 1990 (30)",Bosnia-Herzegovina,£9.45m
+91,Attacking Midfield,Danijel Aleksic,"Apr 30, 1991 (28)",Serbia,£2.16m
+41,Attacking Midfield,Berkay Özcan,"Feb 15, 1998 (22)",Turkey / Germany,£2.07m
+11,Left Winger,Eljero Elia,"Feb 13, 1987 (33)",Netherlands / Suriname,£585k
+70,Left Winger,Robinho,"Jan 25, 1984 (36)",Brazil / Spain,£540k
+27,Centre-Forward,Enzo Crivelli,"Feb 6, 1995 (25)",France / Algeria,£4.32m
+9,Centre-Forward,Fredrik Gulbrandsen,"Sep 10, 1992 (27)",Norway,£2.52m
+19,Centre-Forward,Demba Ba,"May 25, 1985 (34)",Senegal / France,£720k
+18,Centre-Forward,Muhammet Arslantas,"Jan 27, 2001 (19)",Turkey,£135k
+30,Goalkeeper,Mamadou Samassa,"Feb 16, 1990 (30)",Mali / France,£2.16m
+29,Goalkeeper,Ali Sasal Vural,"Jul 10, 1990 (29)",Turkey,£270k
+1,Goalkeeper,Muammer Yildirim,"Sep 14, 1990 (29)",Turkey,£225k
+4,Centre-Back,Aaron Appindangoyé,"Feb 20, 1992 (28)",Gabon,£1.08m
+20,Centre-Back,Fatih Aksoy,"Nov 6, 1997 (22)",Turkey,£720k
+88,Centre-Back,Caner Osmanpasa,"Jan 15, 1988 (32)",Turkey,£540k
+14,Centre-Back,Samba Camara,"Nov 14, 1992 (27)",France / Mali,£428k
+6,Centre-Back,Paul Papp,"Nov 11, 1989 (30)",Romania,£203k
+3,Left-Back,Ugur Ciftci,"May 4, 1992 (27)",Turkey,£990k
+58,Left-Back,Ziya Erdal,"Jan 5, 1988 (32)",Turkey,£405k
+87,Right-Back,Marcelo Goiano,"Oct 13, 1987 (32)",Brazil,£855k
+26,Right-Back,Baris Yardimci,"Aug 14, 1992 (27)",Turkey,£360k
+23,Right-Back,Furkan Sagman,"Jan 7, 2000 (20)",Turkey / Germany,£45k
+17,Defensive Midfield,Sergiy Rybalka,"Apr 1, 1990 (30)",Ukraine,£720k
+25,Central Midfield,Claudemir,"Mar 27, 1988 (32)",Brazil,£1.44m
+37,Central Midfield,Hakan Arslan,"Jul 18, 1988 (31)",Turkey,£1.08m
+5,Central Midfield,Isaac Cofie,"Sep 20, 1991 (28)",Ghana,£585k
+-,Central Midfield,Cem Özdemir,"Jul 27, 1992 (27)",Turkey,£90k
+54,Left Midfield,Emre Kilinc,"Aug 23, 1994 (25)",Turkey,£4.05m
+8,Attacking Midfield,Mert Hakan Yandas,"Aug 19, 1994 (25)",Turkey,£1.44m
+22,Attacking Midfield,Armin Djerlek,"Jul 15, 2000 (19)",Serbia,£653k
+7,Left Winger,Fernando Andrade,"Jan 8, 1993 (27)",Brazil,£2.88m
+11,Left Winger,Erdogan Yesilyurt,"Nov 6, 1993 (26)",Turkey / Germany,£720k
+19,Left Winger,Yasin Öztekin,"Mar 19, 1987 (33)",Turkey / Germany,£540k
+32,Centre-Forward,Petar Skuletic,"Jun 29, 1990 (29)",Serbia / Montenegro,£585k
+9,Centre-Forward,Mustapha Yatabaré,"Jan 26, 1986 (34)",Mali / France,£405k
+2,Centre-Forward,Arouna Koné,"Nov 11, 1983 (36)",Cote d'Ivoire,£293k
+1,Goalkeeper,Ramazan Köse,"May 12, 1988 (31)",Turkey,£270k
+99,Goalkeeper,Fatih Öztürk,"Dec 22, 1986 (33)",Turkey,£270k
+13,Goalkeeper,Murat Can Yildiz,"Aug 3, 1998 (21)",Turkey,£45k
+67,Goalkeeper,Mehmet Enes Sari,"Jun 8, 2000 (19)",Turkey,£45k
+80,Centre-Back,Yassine Meriah,"Jul 2, 1993 (26)",Tunisia,£2.16m
+44,Centre-Back,Jorge Fernandes,"Apr 2, 1997 (23)",Portugal,£720k
+50,Centre-Back,Zvonimir Sarlija,"Aug 29, 1996 (23)",Croatia,£653k
+25,Centre-Back,Tomas Brecka,"May 12, 1994 (25)",Czech Republic,£405k
+57,Centre-Back,Furkan Cetinkaya,"Jan 21, 2001 (19)",Turkey,£90k
+92,Left-Back,Oussama Haddadi,"Jan 28, 1992 (28)",Tunisia,£2.16m
+31,Left-Back,Olivier Veigneau,"Jul 16, 1985 (34)",France,£180k
+37,Left-Back,Cagtay Kurukalip,"Feb 24, 2002 (18)",Turkey,£135k
+2,Left-Back,Berk Cetin,"Feb 2, 2000 (20)",Turkey / Germany,£45k
+94,Right-Back,Florent Hadergjonaj,"Jul 31, 1994 (25)",Kosovo / Switzerland,£3.60m
+24,Right-Back,Mickaël Tirpan,"Oct 23, 1993 (26)",Belgium / Turkey,£360k
+6,Defensive Midfield,Loret Sadiku,"Jul 28, 1991 (28)",Albania / Sweden,£720k
+35,Central Midfield,Aytac Kara,"Mar 23, 1993 (27)",Turkey,£1.26m
+8,Central Midfield,David Pavelka,"May 18, 1991 (28)",Czech Republic,£720k
+15,Central Midfield,Tarkan Serbest,"May 2, 1994 (25)",Turkey / Austria,£720k
+3,Central Midfield,Dogucan Haspolat,"Feb 11, 2000 (20)",Turkey / Netherlands,£293k
+7,Left Midfield,Yusuf Erdogan,"Aug 7, 1992 (27)",Turkey,£653k
+10,Attacking Midfield,Haris Hajradinovic,"Feb 18, 1994 (26)",Bosnia-Herzegovina / North Macedonia,£2.16m
+14,Left Winger,Tobias Heintz,"Jul 13, 1998 (21)",Norway,£405k
+71,Left Winger,Anil Koc,"Jan 29, 1995 (25)",Turkey / Belgium,£293k
+77,Left Winger,Azad Toptik,"Feb 12, 1999 (21)",Turkey / Germany,£90k
+70,Right Winger,Dieumerci Ndongala,"Jun 14, 1991 (28)",DR Congo / Belgium,£1.17m
+26,Right Winger,Ilhan Depe,"Sep 10, 1992 (27)",Turkey,£540k
+17,Right Winger,Ricardo Quaresma,"Sep 26, 1983 (36)",Portugal,£360k
+11,Centre-Forward,Mame Thiam,"Oct 9, 1992 (27)",Senegal,£1.08m
+30,Centre-Forward,Gerard Gohou,"Dec 29, 1988 (31)",Cote d'Ivoire,£495k
+9,Centre-Forward,Bengali-Fodé Koita,"Oct 21, 1990 (29)",Guinea / France,£428k
+28,Goalkeeper,Marafona,"May 8, 1987 (32)",Portugal,£405k
+12,Goalkeeper,Cenk Gönen,"Feb 21, 1988 (32)",Turkey,£180k
+34,Goalkeeper,Eray Birnican,"Jul 20, 1988 (31)",Turkey,£90k
+97,Goalkeeper,Ismail Ünal,"Dec 2, 1997 (22)",Turkey,£45k
+44,Centre-Back,Steven Caulker,"Dec 29, 1991 (28)",England / Sierra Leone,£1.08m
+23,Centre-Back,Welinton,"Apr 10, 1989 (31)",Brazil,£855k
+31,Centre-Back,Georgios Tzavellas,"Nov 26, 1987 (32)",Greece,£495k
+53,Centre-Back,Lokman Gör,"Dec 15, 1990 (29)",Turkey,£225k
+21,Left-Back,Fabrice N'Sakala,"Jul 21, 1990 (29)",DR Congo / France,£1.08m
+17,Left-Back,Kaan Kanak,"Oct 6, 1990 (29)",Turkey,£135k
+24,Right-Back,Juanfran,"Sep 11, 1988 (31)",Spain,£1.26m
+25,Right-Back,Onur Bulut,"Apr 16, 1994 (26)",Germany,£585k
+14,Right-Back,Baiano,"Feb 23, 1987 (33)",Brazil,£428k
+26,Defensive Midfield,Manolis Siopis,"May 14, 1994 (25)",Greece,£900k
+6,Defensive Midfield,Ceyhun Gülselam,"Dec 25, 1987 (32)",Turkey / Germany,£473k
+8,Central Midfield,Salih Ucan,"Jan 6, 1994 (26)",Turkey,£720k
+35,Central Midfield,Musa Cagiran,"Nov 17, 1992 (27)",Turkey,£720k
+27,Central Midfield,Umut Günes,"Mar 16, 2000 (20)",Turkey / Germany,£225k
+77,Right Midfield,Emircan Altintas,"Jul 15, 1995 (24)",Turkey,£608k
+10,Left Winger,Junior Fernandes,"Apr 10, 1988 (32)",Chile / Brazil,£1.44m
+7,Right Winger,Efecan Karaca,"Nov 16, 1989 (30)",Turkey,£1.26m
+30,Right Winger,Djalma,"May 30, 1987 (32)",Angola / Portugal,£585k
+11,Second Striker,Anastasios Bakasetas,"Jun 28, 1993 (26)",Greece,£1.80m
+9,Centre-Forward,Papiss Demba Cissé,"Jun 3, 1985 (34)",Senegal / France,£1.26m
+99,Centre-Forward,Yacine Bammou,"Sep 11, 1991 (28)",Morocco / France,£855k
+19,Centre-Forward,Mustafa Pektemek,"Aug 11, 1988 (31)",Turkey,£405k
+1,Goalkeeper,Günay Güvenc,"Jun 25, 1991 (28)",Turkey / Germany,£653k
+25,Goalkeeper,Haydar Yilmaz,"Jan 19, 1984 (36)",Turkey,£135k
+71,Goalkeeper,Mustafa Burak Bozan,"Aug 23, 2000 (19)",Turkey,£45k
+3,Centre-Back,Papy Djilobodji,"Dec 1, 1988 (31)",Senegal,£1.53m
+6,Centre-Back,Alin Tosca,"Mar 14, 1992 (28)",Romania,£900k
+76,Centre-Back,Jean-Armel Kana-Biyik,"Jul 3, 1989 (30)",Cameroon / France,£900k
+4,Centre-Back,Ulas Zengin,"Jun 25, 1997 (22)",Turkey,£225k
+13,Left-Back,Júnior Morais,"Jul 22, 1986 (33)",Brazil / Romania,£495k
+23,Left-Back,Mehmet Erdem Ugurlu,"Jul 9, 1988 (31)",Turkey,£90k
+16,Right-Back,Pawel Olkowski,"Feb 13, 1990 (30)",Poland,£473k
+17,Right-Back,Oguz Ceylan,"Dec 15, 1990 (29)",Turkey,£293k
+55,Defensive Midfield,Abdul-Aziz Tetteh,"May 25, 1990 (29)",Ghana,£855k
+8,Defensive Midfield,Jefferson,"Jan 22, 1994 (26)",Brazil,£270k
+5,Defensive Midfield,Kubilay Aktas,"Jan 29, 1995 (25)",Turkey / France,£90k
+18,Central Midfield,Souleymane Diarra,"Jan 30, 1995 (25)",Mali,£1.08m
+15,Central Midfield,Raman Chibsah,"Mar 10, 1993 (27)",Ghana / Italy,£810k
+28,Central Midfield,André Sousa,"Jul 9, 1990 (29)",Portugal,£495k
+44,Attacking Midfield,Alexandru Maxim,"Jul 8, 1990 (29)",Romania,£1.44m
+19,Attacking Midfield,Furkan Soyalp,"Jun 12, 1995 (24)",Turkey,£315k
+97,Attacking Midfield,Hasan Yurtseven,"Mar 19, 2001 (19)",Turkey,£45k
+11,Left Winger,Güray Vural,"Jun 11, 1988 (31)",Turkey,£540k
+27,Right Winger,Patrick Twumasi,"May 9, 1994 (25)",Ghana,£2.16m
+9,Right Winger,Bartlomiej Pawlowski,"Nov 13, 1992 (27)",Poland,£540k
+7,Right Winger,Kenan Özer,"Aug 16, 1987 (32)",Turkey / Cyprus,£113k
+10,Centre-Forward,Olarenwaju Kayode,"May 8, 1993 (26)",Nigeria,£2.16m
+14,Centre-Forward,Muhammet Demir,"Jan 10, 1992 (28)",Turkey,£360k
+88,Centre-Forward,Mugdat Celik,"Jan 3, 1990 (30)",Turkey,£270k
+23,Goalkeeper,Gökhan Akkan,"Jan 1, 1995 (25)",Turkey,£1.17m
+30,Goalkeeper,Zafer Görgen,"Jun 21, 2000 (19)",Turkey,£225k
+13,Goalkeeper,Tarik Cetin,"Jan 8, 1997 (23)",Turkey,£45k
+95,Goalkeeper,Bogachan Kazmaz,"Jan 20, 2001 (19)",Turkey,£45k
+64,Centre-Back,Ivanildo Fernandes,"Mar 26, 1996 (24)",Portugal / Cape Verde,£720k
+3,Centre-Back,Mohamed Abarhoun,"May 3, 1989 (30)",Morocco,£653k
+4,Centre-Back,Montassar Talbi,"May 26, 1998 (21)",Tunisia / France,£450k
+28,Centre-Back,Burak Albayrak,"Jan 12, 1998 (22)",Turkey,£68k
+53,Left-Back,Dario Melnjak,"Oct 31, 1992 (27)",Croatia,£1.98m
+35,Left-Back,Alberk Koc,"Feb 15, 1997 (23)",Turkey,£270k
+92,Left-Back,Berkay Sandikci,"Aug 4, 2000 (19)",Turkey,£45k
+55,Right-Back,Mykola Morozyuk,"Jan 17, 1988 (32)",Ukraine,£720k
+77,Right-Back,Orhan Ovacikli,"Nov 23, 1988 (31)",Turkey,£270k
+27,Defensive Midfield,Ismaël Diomandé,"Aug 28, 1992 (27)",Cote d'Ivoire,£585k
+44,Defensive Midfield,Amedej Vetrih,"Sep 16, 1990 (29)",Slovenia,£428k
+66,Defensive Midfield,Oguz Kagan Güctekin,"Apr 6, 1999 (21)",Turkey,£270k
+8,Central Midfield,Atakan Akkaynak,"Jan 5, 1999 (21)",Germany / Turkey,£270k
+5,Central Midfield,Abdullah Durak,"Apr 1, 1987 (33)",Turkey,£135k
+20,Attacking Midfield,Denys Garmash,"Apr 19, 1990 (30)",Ukraine,£1.71m
+10,Attacking Midfield,Fernando Boldrin,"Feb 23, 1989 (31)",Brazil / Portugal,£1.08m
+70,Attacking Midfield,Yan Sasse,"Jun 24, 1997 (22)",Brazil,£653k
+19,Left Winger,Aminu Umar,"Mar 6, 1995 (25)",Nigeria,£1.26m
+97,Left Winger,Muhammet Celik,"Oct 4, 1998 (21)",Turkey,£135k
+18,Right Winger,Braian Samudio,"Dec 23, 1995 (24)",Paraguay,£1.44m
+29,Right Winger,Tunay Torun,"Apr 21, 1990 (29)",Turkey / Germany,£270k
+21,Centre-Forward,Milan Skoda,"Jan 16, 1986 (34)",Czech Republic,£720k
+9,Centre-Forward,Marko Scepovic,"May 23, 1991 (28)",Serbia,£495k
+96,Centre-Forward,Andriy Boryachuk,"Apr 23, 1996 (23)",Ukraine,£495k
+17,Centre-Forward,Ogulcan Caglayan,"Mar 22, 1996 (24)",Turkey,£428k
+30,Goalkeeper,Fabien Farnolle,"Feb 5, 1985 (35)",Benin / France,£315k
+35,Goalkeeper,Ufuk Ceylan,"Jun 23, 1986 (33)",Turkey,£68k
+12,Goalkeeper,Murat Aksit,"Jan 2, 2002 (18)",Turkey,£45k
+22,Goalkeeper,Abdulsamed Damlu,"Jul 25, 1999 (20)",Turkey,£45k
+16,Centre-Back,Teenage Hadebe,"Sep 17, 1995 (24)",Zimbabwe,£608k
+44,Centre-Back,Arturo Mina,"Oct 8, 1990 (29)",Ecuador,£428k
+15,Centre-Back,Mustafa Akbas,"May 30, 1990 (29)",Turkey,£360k
+53,Centre-Back,Yigithan Güveli,"May 16, 1998 (21)",Turkey,£158k
+45,Left-Back,Karim Hafez,"Mar 12, 1996 (24)",Egypt,£608k
+91,Left-Back,Sakib Aytac,"Nov 24, 1991 (28)",Turkey,£540k
+3,Left-Back,Erkan Kas,"Sep 10, 1991 (28)",Turkey / Kosovo,£270k
+-,Left-Back,Semih Beyaz,"Aug 16, 1992 (27)",Turkey / France,£45k
+29,Right-Back,Issam Chebake,"Oct 12, 1989 (30)",Morocco / France,£855k
+76,Right-Back,Özer Özdemir,"Feb 5, 1998 (22)",Turkey / France,£360k
+6,Defensive Midfield,Robin Yalcin,"Jan 25, 1994 (26)",Germany / Turkey,£900k
+8,Defensive Midfield,Murat Yildirim,"May 18, 1987 (32)",Turkey / Netherlands,£270k
+19,Central Midfield,Afriyie Acquah,"Jan 5, 1992 (28)",Ghana,£1.44m
+54,Central Midfield,Rémi Walter,"Apr 26, 1995 (24)",France,£1.44m
+20,Central Midfield,Mitchell Donald,"Dec 10, 1988 (31)",Netherlands / Suriname,£855k
+25,Central Midfield,Ghaylen Chaaleli,"Feb 28, 1994 (26)",Tunisia,£720k
+14,Central Midfield,Ahmed Ildiz,"Nov 29, 1996 (23)",Turkey / Austria,£473k
+55,Attacking Midfield,Youssouf Ndayishimiye,"Oct 27, 1998 (21)",Burundi,£45k
+21,Left Winger,Moryké Fofana,"Nov 23, 1991 (28)",Cote d'Ivoire,£855k
+10,Right Winger,Thievy Bifouma,"May 13, 1992 (27)",Congo / France,£1.80m
+7,Right Winger,Gökhan Töre,"Jan 20, 1992 (28)",Turkey / Germany,£360k
+-,Right Winger,Issiar Dia,"Jun 8, 1987 (32)",Senegal / France,£90k
+24,Centre-Forward,Vidar Örn Kjartansson,"Mar 11, 1990 (30)",Iceland,£1.08m
+11,Centre-Forward,Eren Tozlu,"Dec 27, 1990 (29)",Turkey,£293k
+9,Centre-Forward,Umut Bulut,"Mar 15, 1983 (37)",Turkey,£135k
+1,Goalkeeper,Serkan Kirintili,"Feb 15, 1985 (35)",Turkey,£360k
+35,Goalkeeper,Ozan Can Oruc,"May 26, 2000 (19)",Turkey,£180k
+17,Goalkeeper,Ertugrul Taskiran,"Nov 5, 1989 (30)",Turkey,£45k
+61,Goalkeeper,Mücahit Atalay,"Oct 26, 1991 (28)",Turkey,£45k
+14,Centre-Back,Marin Anicic,"Aug 17, 1989 (30)",Bosnia-Herzegovina / Croatia,£653k
+3,Centre-Back,Fallou Diagne,"Aug 14, 1989 (30)",Senegal / France,£360k
+15,Centre-Back,Ugur Demirok,"Jul 8, 1988 (31)",Turkey,£293k
+5,Centre-Back,Selim Ay,"Jul 31, 1991 (28)",Turkey,£158k
+4,Centre-Back,Ali Turan,"Sep 6, 1983 (36)",Turkey,£68k
+12,Left-Back,Guilherme,"Apr 1, 1990 (30)",Brazil / Portugal,£428k
+25,Left-Back,Alper Uludag,"Dec 11, 1990 (29)",Turkey / Belgium,£293k
+23,Left-Back,Leonard Zuta,"Aug 9, 1992 (27)",North Macedonia / Sweden,£270k
+87,Left-Back,Ferhat Öztorun,"May 8, 1987 (32)",Turkey,£270k
+89,Right-Back,Nejc Skubic,"Jun 13, 1989 (30)",Slovenia,£1.44m
+6,Defensive Midfield,Jens Jönsson,"Jan 10, 1993 (27)",Denmark,£1.08m
+8,Defensive Midfield,Marko Jevtovic,"Jul 24, 1993 (26)",Serbia,£990k
+18,Defensive Midfield,Amir Hadziahmetovic,"Mar 8, 1997 (23)",Bosnia-Herzegovina / Denmark,£540k
+2,Defensive Midfield,Volkan Findikli,"Oct 13, 1990 (29)",Turkey,£270k
+32,Central Midfield,Ali Karakaya,"Jan 1, 2002 (18)",Turkey,£68k
+77,Left Midfield,Sener Kaya,"Jan 1, 2003 (17)",Turkey,£45k
+21,Attacking Midfield,Farouk Miya,"Nov 26, 1997 (22)",Uganda,£1.80m
+11,Attacking Midfield,Deni Milosevic,"Mar 9, 1995 (25)",Bosnia-Herzegovina / Belgium,£1.62m
+16,Attacking Midfield,Paolo Hurtado,"Jul 27, 1990 (29)",Peru,£540k
+7,Right Winger,Ömer Ali Sahiner,"Jan 2, 1992 (28)",Turkey,£1.17m
+19,Right Winger,Levan Shengelia,"Oct 27, 1995 (24)",Georgia,£473k
+10,Centre-Forward,Riad Bajić,"May 6, 1994 (25)",Bosnia-Herzegovina,£1.26m
+88,Centre-Forward,Erdon Daci,"Jul 4, 1998 (21)",North Macedonia / Albania,£405k
+99,Centre-Forward,Thuram,"Feb 1, 1991 (29)",Brazil,£293k
+25,Goalkeeper,Ruud Boffin,"Nov 5, 1987 (32)",Belgium,£293k
+35,Goalkeeper,Ferhat Kaplan,"Jan 7, 1989 (31)",Turkey,£135k
+1,Goalkeeper,Yakup Mert Cakir,"Jul 23, 1999 (20)",Turkey,£45k
+2,Centre-Back,Ersan Gülüm,"May 17, 1987 (32)",Turkey / Australia,£720k
+28,Centre-Back,Ondrej Celustka,"Jun 18, 1989 (30)",Czech Republic,£720k
+89,Centre-Back,Veysel Sari,"Jul 25, 1988 (31)",Turkey,£495k
+5,Centre-Back,Bahadir Öztürk,"Oct 1, 1995 (24)",Turkey,£473k
+4,Centre-Back,Salih Dursun,"Jul 12, 1991 (28)",Turkey,£158k
+13,Left-Back,Fedor Kudryashov,"Apr 5, 1987 (33)",Russia,£1.08m
+6,Left-Back,Eren Albayrak,"Apr 23, 1991 (28)",Turkey,£293k
+41,Left-Back,Aly Cissokho,"Sep 15, 1987 (32)",France / Senegal,£270k
+30,Right-Back,Nazim Sangaré,"May 30, 1994 (25)",Turkey / Germany,£1.44m
+99,Right-Back,Bünyamin Balci,"May 31, 2000 (19)",Turkey,£68k
+59,Defensive Midfield,Delvin N'Dinga,"Mar 14, 1988 (32)",Congo / France,£405k
+20,Defensive Midfield,Chico,"Feb 2, 1987 (33)",Brazil / Italy,£225k
+90,Defensive Midfield,Halil Ibrahim Sevinc,"Jan 24, 2002 (18)",Turkey,£135k
+8,Defensive Midfield,Charles,"Feb 14, 1985 (35)",Brazil,£113k
+19,Central Midfield,Ufuk Akyol,"Aug 27, 1997 (22)",Turkey / Germany,£653k
+22,Central Midfield,Harun Alpsoy,"Mar 3, 1997 (23)",Turkey / Switzerland,£293k
+88,Central Midfield,Hakan Özmert,"Jun 3, 1985 (34)",Turkey / France,£270k
+18,Central Midfield,Yekta Kurtulus,"Dec 11, 1985 (34)",Turkey,£135k
+7,Right Winger,Dogukan Sinik,"Jan 21, 1999 (21)",Turkey,£1.62m
+77,Right Winger,Sinan Gümüs,"Jan 15, 1994 (26)",Germany / Turkey,£855k
+23,Right Winger,Amilton,"Aug 12, 1989 (30)",Brazil,£540k
+16,Right Winger,Fredy,"Mar 27, 1990 (30)",Angola / Portugal,£473k
+11,Second Striker,Lukas Podolski,"Jun 4, 1985 (34)",Germany / Poland,£720k
+9,Centre-Forward,Gustavo Blanco Leschuk,"Nov 5, 1991 (28)",Argentina,£1.08m
+81,Centre-Forward,Adis Jahovic,"Mar 18, 1987 (33)",North Macedonia / Bosnia-Herzegovina,£1.08m
+12,Centre-Forward,Paul Mukairu,"Jan 18, 2000 (20)",Nigeria,£293k
+33,Goalkeeper,Silviu Lung Jr.,"Jun 4, 1989 (30)",Romania,£720k
+-,Goalkeeper,Nuh Naci Kirlankicoglu,"Jan 1, 1997 (23)",Turkey,£45k
+1,Goalkeeper,Hakan Arikan,"Aug 17, 1982 (37)",Turkey,£45k
+16,Goalkeeper,Dogan Alemdar,"Oct 29, 2002 (17)",Turkey,£45k
+67,Goalkeeper,Eray Iscan,"Jul 19, 1991 (28)",Turkey,£45k
+95,Goalkeeper,Ismail Cipe,"Jan 5, 1995 (25)",Turkey,£45k
+5,Centre-Back,Aymen Abdennour,"Aug 6, 1989 (30)",Tunisia,£495k
+86,Centre-Back,Diego Ângelo,"Feb 12, 1986 (34)",Brazil,£473k
+44,Centre-Back,Oguzhan Capar,"Oct 8, 1996 (23)",Turkey,£293k
+24,Centre-Back,Mert Kula,"Jan 1, 1995 (25)",Turkey,£270k
+84,Centre-Back,Cristian Sapunaru,"Apr 5, 1984 (36)",Romania,£158k
+25,Centre-Back,Alpay Celebi,"Apr 4, 1999 (21)",Turkey,£45k
+3,Left-Back,Emre Tasdemir,"Aug 8, 1995 (24)",Turkey,£473k
+32,Left-Back,Yasir Subasi,"Jan 1, 1996 (24)",Turkey,£428k
+13,Right-Back,Miguel Lopes,"Dec 19, 1986 (33)",Portugal,£270k
+2,Right-Back,Emirhan Civelek,"Jan 5, 2000 (20)",Turkey,£90k
+27,Defensive Midfield,Brice Dja Djédjé,"Dec 23, 1990 (29)",Cote d'Ivoire / France,£405k
+90,Defensive Midfield,Anthony Uzodimma,"Apr 17, 1999 (21)",Nigeria,£45k
+88,Central Midfield,Gustavo Campanharo,"Apr 4, 1992 (28)",Brazil / Italy,£990k
+38,Central Midfield,Ben Rienstra,"Jun 5, 1990 (29)",Netherlands,£495k
+8,Central Midfield,Hasan Hüseyin Acar,"Dec 16, 1994 (25)",Turkey,£405k
+43,Attacking Midfield,Bernard Mensah,"Oct 17, 1994 (25)",Ghana,£2.16m
+14,Attacking Midfield,Emre Demir,"Jan 15, 2004 (16)",Turkey,£810k
+20,Attacking Midfield,Aksel Aktas,"Jul 15, 1999 (20)",Turkey / France,£135k
+98,Attacking Midfield,Furkan Polat,"Apr 20, 1998 (21)",Turkey,£68k
+10,Left Winger,Pedro Henrique,"Jun 16, 1990 (29)",Brazil,£1.08m
+92,Left Winger,Mario Situm,"Apr 4, 1992 (28)",Croatia,£608k
+17,Left Winger,Nurettin Korkmaz,"Jun 27, 2002 (17)",Turkey,£270k
+61,Left Winger,Ziya Alkurt,"Sep 26, 1990 (29)",Turkey,£270k
+18,Right Winger,Zoran Kvrzic,"Aug 7, 1988 (31)",Bosnia-Herzegovina / Croatia,£495k
+70,Right Winger,Cenk Sahin,"Sep 22, 1994 (25)",Turkey,£405k
+21,Centre-Forward,Muris Mesanovic,"Jul 6, 1990 (29)",Bosnia-Herzegovina,£810k
+11,Centre-Forward,Artem Kravets,"Jun 3, 1989 (30)",Ukraine,£428k
+19,Centre-Forward,Ömer Uzun,"Feb 23, 2000 (20)",Turkey / Germany,£135k
+33,Goalkeeper,Adam Stachowiak,"Dec 18, 1986 (33)",Poland,£608k
+25,Goalkeeper,Tolgahan Acar,"Jun 4, 1986 (33)",Turkey,£180k
+1,Goalkeeper,Hüseyin Altintas,"Sep 11, 1994 (25)",Turkey,£45k
+13,Goalkeeper,Ali Eren Yalcin,"May 30, 2001 (18)",Turkey,£45k
+55,Centre-Back,Syam Ben Youssef,"Mar 31, 1989 (31)",Tunisia / France,£653k
+15,Centre-Back,Oguz Yilmaz,"Jan 1, 1993 (27)",Turkey,£428k
+5,Centre-Back,Mustafa Yumlu,"Sep 25, 1987 (32)",Turkey,£293k
+3,Centre-Back,Muhammet Özkal,"Nov 26, 1999 (20)",Turkey,£158k
+21,Left-Back,Zakarya Bergdich,"Jan 7, 1989 (31)",Morocco / France,£540k
+60,Left-Back,Özgür Cek,"Jan 3, 1991 (29)",Turkey,£270k
+72,Left-Back,Murathan Sütcü,"Feb 17, 2000 (20)",Turkey,£68k
+2,Right-Back,Tiago Lopes,"Jan 4, 1989 (31)",Portugal,£585k
+61,Right-Back,Zeki Yavru,"Sep 5, 1991 (28)",Turkey,£293k
+23,Defensive Midfield,Ogenyi Onazi,"Dec 25, 1992 (27)",Nigeria,£1.44m
+90,Defensive Midfield,Isaac Sackey,"Apr 4, 1994 (26)",Ghana,£720k
+8,Central Midfield,Radoslaw Murawski,"Apr 22, 1994 (25)",Poland,£1.26m
+6,Central Midfield,Marc Kibong Mbamba,"Oct 15, 1988 (31)",Cameroon,£135k
+11,Left Midfield,Sedat Sahintürk,"Feb 7, 1996 (24)",Turkey,£225k
+20,Attacking Midfield,Recep Niyaz,"Aug 2, 1995 (24)",Turkey,£900k
+10,Attacking Midfield,Ismail Aissati,"Aug 16, 1988 (31)",Morocco / Netherlands,£540k
+16,Attacking Midfield,Asim Aksungur,"Oct 8, 2000 (19)",Turkey,£45k
+77,Left Winger,Modou Barrow,"Oct 13, 1992 (27)",The Gambia / Sweden,£1.44m
+44,Left Winger,Alihan Kalkan,"May 21, 1999 (20)",Turkey,£45k
+9,Right Winger,Hadi Sacko,"Mar 24, 1994 (26)",Mali / France,£1.08m
+70,Right Winger,Olcay Sahan,"May 26, 1987 (32)",Turkey / Germany,£360k
+19,Centre-Forward,Óscar Estupiñán,"Sep 29, 1996 (23)",Colombia,£720k
+7,Centre-Forward,Hugo Rodallega,"Jul 25, 1985 (34)",Colombia,£540k
+13,Goalkeeper,Beto,"May 1, 1982 (37)",Portugal,£495k
+1,Goalkeeper,Göktug Bakirbas,"Jun 1, 1996 (23)",Turkey,£45k
+24,Goalkeeper,Eren Bilen,"Dec 2, 2000 (19)",Turkey,£45k
+48,Goalkeeper,Arda Özcimen,"Jan 8, 2002 (18)",Turkey,£45k
+4,Centre-Back,Titi,"Mar 12, 1988 (32)",Brazil / Italy,£428k
+25,Centre-Back,Wallace Reis,"Dec 26, 1987 (32)",Brazil,£405k
+33,Centre-Back,Atinc Nukan,"Jul 20, 1993 (26)",Turkey,£270k
+55,Left-Back,Léo Schwechlen,"Jun 5, 1989 (30)",France,£428k
+41,Left-Back,Berkan Emir,"Feb 6, 1988 (32)",Turkey,£315k
+20,Right-Back,Lamine Gassama,"Oct 20, 1989 (30)",Senegal / France,£900k
+77,Right-Back,Murat Paluli,"Aug 9, 1994 (25)",Turkey,£180k
+17,Defensive Midfield,André Poko,"Jan 1, 1993 (27)",Gabon,£900k
+5,Defensive Midfield,Alpaslan Öztürk,"Jul 16, 1993 (26)",Turkey / Belgium,£720k
+88,Central Midfield,Soner Aydogdu,"Jan 5, 1991 (29)",Turkey,£1.26m
+8,Central Midfield,André Castro,"Apr 2, 1988 (32)",Portugal,£900k
+6,Central Midfield,Celso Borges,"May 27, 1988 (31)",Costa Rica / Brazil,£540k
+30,Central Midfield,Yalcin Kayan,"Jan 30, 1999 (21)",Turkey,£135k
+15,Central Midfield,Kerem Atakan Kesgin,"Nov 5, 2000 (19)",Turkey,£68k
+19,Central Midfield,Hüseyin Bulut,"Mar 29, 1999 (21)",Turkey / Germany,£45k
+28,Central Midfield,Metin Yildirim,"Feb 25, 2000 (20)",Turkey,£45k
+7,Right Midfield,Halil Akbunar,"Nov 9, 1993 (26)",Turkey,£990k
+10,Attacking Midfield,Márcio Mossoró,"Jul 4, 1983 (36)",Brazil,£270k
+27,Left Winger,Zlatko Tripic,"Dec 2, 1992 (27)",Norway,£360k
+99,Left Winger,Stefano Napoleoni,"Jun 26, 1986 (33)",Italy,£360k
+11,Right Winger,Serdar Gürler,"Sep 14, 1991 (28)",Turkey / France,£1.08m
+21,Centre-Forward,Kamil Wilczek,"Jan 14, 1988 (32)",Poland,£1.08m
+32,Centre-Forward,Cameron Jerome,"Aug 14, 1986 (33)",England / Grenada,£428k
+63,Centre-Forward,Deniz Kadah,"Mar 2, 1986 (34)",Turkey / Germany,£270k
+18,Centre-Forward,Ege Özkayimoglu,"Jul 18, 2001 (18)",Turkey,£90k
+89,Goalkeeper,Kristoffer Nordfeldt,"Jun 23, 1989 (30)",Sweden,£720k
+25,Goalkeeper,Ertac Özbir,"Oct 25, 1989 (30)",Turkey,£360k
+27,Goalkeeper,Abdoulaye Diallo,"Mar 30, 1992 (28)",Senegal / France,£315k
+95,Goalkeeper,Burak Capkinoglu,"Feb 25, 1995 (25)",Turkey,£45k
+15,Centre-Back,Zargo Touré,"Nov 11, 1989 (30)",Senegal / France,£405k
+32,Centre-Back,Flávio,"May 12, 1994 (25)",Brazil,£360k
+4,Centre-Back,Mattias Bjärsmyr,"Jan 3, 1986 (34)",Sweden,£135k
+44,Centre-Back,Ömer Alper Tatlisu,"Jan 1, 1997 (23)",Turkey,£90k
+24,Centre-Back,Arda Kizildag,"Oct 15, 1998 (21)",Turkey,£45k
+55,Centre-Back,Abdullah Sahindere,"Jun 9, 2003 (16)",Turkey,£45k
+39,Left-Back,Pierre-Yves Polomat,"Dec 27, 1993 (26)",Martinique / France,£810k
+3,Left-Back,Halil Ibrahim Pehlivan,"Aug 21, 1993 (26)",Turkey,£158k
+2,Right-Back,Ahmet Oguz,"Jan 16, 1993 (27)",Turkey,£405k
+22,Right-Back,Erdem Özgenc,"Aug 22, 1984 (35)",Turkey,£180k
+18,Right-Back,Mike van Beijnen,"Mar 13, 1999 (21)",Netherlands,£45k
+8,Defensive Midfield,Fabrício Baiano,"Jun 13, 1992 (27)",Brazil,£428k
+6,Defensive Midfield,Yasin Pehlivan,"Jan 5, 1989 (31)",Austria,£315k
+23,Defensive Midfield,Soner Dikmen,"Sep 1, 1993 (26)",Turkey,£135k
+5,Central Midfield,Berat Ayberk Özdemir,"May 23, 1998 (21)",Turkey,£1.62m
+28,Central Midfield,Sadio Diallo,"Dec 28, 1990 (29)",Guinea,£180k
+19,Right Midfield,Rahmetullah Berisbek,"Mar 22, 1999 (21)",Turkey,£315k
+10,Attacking Midfield,Stéphane Sessègnon,"Jun 1, 1984 (35)",Benin,£270k
+11,Left Winger,Floyd Ayité,"Dec 15, 1988 (31)",Togo / France,£900k
+7,Left Winger,Nadir Ciftci,"Feb 12, 1992 (28)",Turkey / Netherlands,£293k
+21,Right Winger,Daniel Candeias,"Feb 25, 1988 (32)",Portugal,£720k
+17,Right Winger,Sefa Yilmaz,"Feb 14, 1990 (30)",Turkey / Germany,£180k
+13,Centre-Forward,Giovanni Sio,"Mar 31, 1989 (31)",Cote d'Ivoire / France,£1.26m
+20,Centre-Forward,Mats Seuntjens,"Apr 17, 1992 (28)",Netherlands,£810k
+9,Centre-Forward,Bogdan Stancu,"Jun 28, 1987 (32)",Romania,£540k
+26,Centre-Forward,Gökhan Altiparmak,"Apr 20, 2001 (18)",Turkey,£45k
+99,Centre-Forward,Ilker Karakas,"Jan 11, 1999 (21)",Turkey,£45k
+25,Goalkeeper,Ricardo Friedrich,"Feb 18, 1993 (27)",Brazil,£360k
+1,Goalkeeper,Korcan Celikay,"Dec 31, 1987 (32)",Turkey,£158k
+-,Goalkeeper,Halil Bagci,"Apr 4, 2003 (17)",Turkey,£45k
+98,Goalkeeper,Yigit Kafkasyali,"Jun 13, 1998 (21)",Turkey,£45k
+22,Centre-Back,Michal Pazdan,"Sep 21, 1987 (32)",Poland,£495k
+13,Centre-Back,Ante Kulusic,"Jun 6, 1986 (33)",Croatia,£293k
+5,Centre-Back,Alihan Kubalas,"Oct 26, 1991 (28)",Turkey,£180k
+78,Centre-Back,Fatih Tultak,"Feb 28, 2001 (19)",Turkey,£68k
+8,Left-Back,Tiago Pinto,"Feb 1, 1988 (32)",Portugal,£473k
+89,Left-Back,Atila Turan,"Apr 10, 1992 (28)",Turkey / France,£473k
+4,Left-Back,Mehmet Sak,"Apr 4, 1990 (30)",Turkey,£158k
+11,Left-Back,Mahmut Akan,"Jul 14, 1994 (25)",Turkey,£45k
+70,Right-Back,Stelios Kitsiou,"Sep 28, 1993 (26)",Greece,£720k
+19,Right-Back,Cebrail Karayel,"Aug 15, 1994 (25)",Turkey,£135k
+35,Defensive Midfield,Daniel Lukasik,"Apr 28, 1991 (28)",Poland,£428k
+55,Defensive Midfield,Milos Stanojevic,"Nov 20, 1993 (26)",Serbia,£428k
+14,Defensive Midfield,Ricardo Faty,"Aug 4, 1986 (33)",Senegal / France,£225k
+3,Defensive Midfield,Sedat Agcay,"Sep 22, 1981 (38)",Turkey,£68k
+17,Central Midfield,Ender Aygören,"Jun 16, 2000 (19)",Turkey,£68k
+43,Central Midfield,Mahmut Altinkaya,"Jul 7, 2000 (19)",Turkey,£45k
+7,Attacking Midfield,Óscar Scarione,"Jul 14, 1985 (34)",Argentina,£90k
+24,Left Winger,Saba Lobjanidze,"Dec 18, 1994 (25)",Georgia,£720k
+80,Left Winger,Berke Gürbüz,"Jan 27, 2003 (17)",Turkey,£90k
+18,Right Winger,Konrad Michalak,"Sep 19, 1997 (22)",Poland,£495k
+15,Right Winger,Orkan Cinar,"Jan 29, 1996 (24)",Turkey / Germany,£270k
+20,Right Winger,Aydin Karabulut,"Jan 25, 1988 (32)",Turkey / Germany,£68k
+-,Right Winger,Nduka Ozokwo,"Dec 25, 1988 (31)",Nigeria,£45k
+9,Centre-Forward,Gerson Rodrigues,"Jun 20, 1995 (24)",Luxembourg / Portugal,£1.26m
+12,Centre-Forward,Dever Orgill,"Mar 8, 1990 (30)",Jamaica,£810k
+30,Centre-Forward,Gelmin Rivas,"Mar 23, 1989 (31)",Venezuela,£720k
+23,Centre-Forward,Ilhan Parlak,"Jan 18, 1987 (33)",Turkey,£225k
+77,Centre-Forward,Sitki Ferdi Imdat,"Oct 5, 2001 (18)",Turkey,£45k

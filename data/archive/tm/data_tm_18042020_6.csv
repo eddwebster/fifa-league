@@ -1,0 +1,468 @@
+position_number,position_description,name,dob,nationality,value
+1,Goalkeeper,Marcelo Barovero,"Feb 18, 1984 (36)",Argentina / Italy,£1.08m
+22,Goalkeeper,Luis Cárdenas,"Sep 15, 1993 (26)",Mexico,£360k
+24,Goalkeeper,Édson Reséndez,"Jan 12, 1996 (24)",Mexico,£90k
+3,Centre-Back,César Montes,"Feb 24, 1997 (23)",Mexico,£4.68m
+4,Centre-Back,Nicolás Sánchez,"Feb 4, 1986 (34)",Argentina / Spain,£1.08m
+15,Centre-Back,José María Basanta,"Apr 3, 1984 (36)",Argentina / Mexico,£720k
+11,Left-Back,Leonel Vangioni,"May 5, 1987 (32)",Argentina / Italy,£1.26m
+33,Right-Back,Stefan Medina,"Jun 14, 1992 (27)",Colombia,£2.88m
+19,Right-Back,Miguel Layún,"Jun 25, 1988 (31)",Mexico / Spain,£2.16m
+6,Right-Back,Édson Gutiérrez,"Jan 19, 1996 (24)",Mexico,£585k
+25,Defensive Midfield,Jonathan González,"Apr 13, 1999 (21)",Mexico / United States,£2.88m
+16,Defensive Midfield,Celso Ortiz,"Jan 26, 1989 (31)",Paraguay,£2.16m
+5,Defensive Midfield,Matías Kranevitter,"May 21, 1993 (26)",Argentina / Italy,£1.98m
+35,Defensive Midfield,Eric Cantú,"Feb 28, 1999 (21)",Mexico,£563k
+29,Central Midfield,Carlos Rodríguez,"Jan 3, 1997 (23)",Mexico,£5.40m
+32,Attacking Midfield,Maximiliano Meza,"Dec 15, 1992 (27)",Argentina,£7.20m
+21,Attacking Midfield,Arturo González,"Sep 5, 1994 (25)",Mexico,£1.08m
+17,Left Winger,Jesús Gallardo,"Aug 15, 1994 (25)",Mexico,£4.32m
+18,Left Winger,Avilés Hurtado,"Apr 20, 1987 (32)",Colombia / Mexico,£1.44m
+8,Right Winger,Dorlan Pabón,"Jan 24, 1988 (32)",Colombia,£2.16m
+7,Centre-Forward,Rogelio Funes Mori,"Mar 5, 1991 (29)",Argentina,£5.85m
+9,Centre-Forward,Vincent Janssen,"Jun 15, 1994 (25)",Netherlands,£5.85m
+10,Centre-Forward,Aké Loba,"Apr 1, 1998 (22)",Cote d'Ivoire,£3.60m
+1,Goalkeeper,Nahuel Guzmán,"Feb 10, 1986 (34)",Argentina,£1.80m
+22,Goalkeeper,Eduardo Fernández,"Dec 16, 1992 (27)",Mexico / United States,£180k
+30,Goalkeeper,Miguel Ortega,"Apr 13, 1995 (25)",Mexico,£90k
+3,Centre-Back,Carlos Salcedo,"Sep 29, 1993 (26)",Mexico,£5.40m
+18,Centre-Back,Diego Reyes,"Sep 19, 1992 (27)",Mexico,£1.44m
+4,Centre-Back,Hugo Ayala,"Mar 31, 1987 (33)",Mexico,£1.26m
+21,Centre-Back,Francisco Meza,"Aug 29, 1991 (28)",Colombia,£1.08m
+15,Centre-Back,Francisco Venegas,"Jul 16, 1998 (21)",Mexico,£653k
+36,Centre-Back,Eduardo Tercero,"May 6, 1996 (23)",Mexico,£293k
+14,Centre-Back,Juan Sánchez,"Jan 9, 1998 (22)",Mexico,£270k
+6,Left-Back,Jorge Torres,"Jan 16, 1988 (32)",Mexico,£1.44m
+28,Right-Back,Luis Rodríguez,"Jan 21, 1991 (29)",Mexico,£2.52m
+35,Midfielder,José García,"May 14, 1998 (21)",Mexico,£90k
+19,Defensive Midfield,Guido Pizarro,"Feb 26, 1990 (30)",Argentina / Mexico,£5.40m
+5,Defensive Midfield,Rafael Carioca,"Jun 18, 1989 (30)",Brazil,£3.15m
+29,Defensive Midfield,Jesús Dueñas,"Mar 16, 1989 (31)",Mexico,£2.16m
+17,Central Midfield,Jordan Sierra,"Apr 23, 1997 (22)",Ecuador,£1.44m
+20,Left Winger,Javier Aquino,"Feb 11, 1990 (30)",Mexico,£3.15m
+23,Left Winger,Luis Quiñones,"Jun 26, 1991 (28)",Colombia,£3.15m
+11,Right Winger,Nicolás López,"Oct 1, 1993 (26)",Uruguay,£3.60m
+25,Right Winger,Jürgen Damm,"Nov 7, 1992 (27)",Mexico / Germany,£2.16m
+33,Right Winger,Julián Quiñones,"Mar 24, 1997 (23)",Colombia,£2.16m
+9,Centre-Forward,Eduardo Vargas,"Nov 20, 1989 (30)",Chile,£2.88m
+13,Centre-Forward,Enner Valencia,"Nov 4, 1989 (30)",Ecuador,£2.52m
+10,Centre-Forward,André-Pierre Gignac,"Dec 5, 1985 (34)",France,£2.16m
+6,Goalkeeper,Guillermo Ochoa,"Jul 13, 1985 (34)",Mexico,£1.80m
+27,Goalkeeper,Óscar Jiménez,"Oct 12, 1988 (31)",Mexico,£360k
+18,Centre-Back,Bruno Valdez,"Oct 6, 1992 (27)",Paraguay,£4.32m
+19,Centre-Back,Emanuel Aguilera,"Jun 11, 1989 (30)",Argentina,£1.80m
+4,Centre-Back,Sebastián Cáceres,"Aug 18, 1999 (20)",Uruguay,£1.62m
+34,Centre-Back,Haret Ortega,"May 19, 2000 (19)",Mexico,£180k
+2,Left-Back,Luis Fuentes,"Sep 14, 1986 (33)",Mexico,£720k
+3,Right-Back,Jorge Sánchez,"Dec 10, 1997 (22)",Mexico,£2.88m
+22,Right-Back,Paul Aguilar,"Mar 6, 1986 (34)",Mexico,£1.08m
+5,Defensive Midfield,Santiago Cáseres,"Feb 25, 1997 (23)",Argentina,£4.32m
+25,Defensive Midfield,Fernando González,"Jan 27, 1994 (26)",Mexico,£1.44m
+20,Central Midfield,Richard Sánchez,"Mar 29, 1996 (24)",Paraguay,£2.52m
+14,Attacking Midfield,Nicolás Benedetti,"Apr 25, 1997 (22)",Colombia,£2.88m
+17,Attacking Midfield,Sebastián Córdova,"Jun 12, 1997 (22)",Mexico,£2.16m
+11,Left Winger,Andrés Ibargüen,"May 7, 1992 (27)",Colombia,£2.52m
+8,Left Winger,Alonso Escoboza,"Jan 22, 1993 (27)",Mexico,£1.62m
+23,Left Winger,Antonio López,"Apr 10, 1997 (23)",Guatemala / Mexico,£360k
+7,Right Winger,Leo Suárez,"Mar 30, 1996 (24)",Argentina / Spain,£653k
+10,Second Striker,Giovani dos Santos,"May 11, 1989 (30)",Mexico / Spain,£1.44m
+15,Centre-Forward,Nicolás Castillo,"Feb 14, 1993 (27)",Chile,£4.32m
+9,Centre-Forward,Roger Martínez,"Jun 23, 1994 (25)",Colombia,£3.60m
+21,Centre-Forward,Henry Martín,"Nov 18, 1992 (27)",Mexico,£2.52m
+24,Centre-Forward,Federico Viñas,"Jun 30, 1998 (21)",Uruguay,£1.17m
+4,Goalkeeper,Antonio Rodríguez,"Jul 4, 1992 (27)",Mexico,£1.44m
+1,Goalkeeper,Raúl Gudiño,"Apr 22, 1996 (23)",Mexico,£1.08m
+35,Goalkeeper,Antonio Torres,"May 23, 1996 (23)",Mexico,£180k
+21,Centre-Back,Hiram Mier,"Aug 25, 1989 (30)",Mexico,£1.44m
+14,Centre-Back,Antonio Briseño,"Feb 5, 1994 (26)",Mexico,£1.26m
+28,Centre-Back,Alexis Peña,"Jan 13, 1996 (24)",Mexico,£1.26m
+30,Centre-Back,Gilberto Sepúlveda,"Feb 4, 1999 (21)",Mexico,£1.17m
+2,Left-Back,Cristian Calderón,"May 24, 1997 (22)",Mexico,£2.88m
+16,Left-Back,Miguel Ponce,"Apr 12, 1989 (31)",Mexico / United States,£1.08m
+27,Right-Back,José Madueña,"May 29, 1990 (29)",Mexico,£1.08m
+17,Right-Back,Jesús Sánchez,"Aug 31, 1989 (30)",Mexico,£855k
+20,Defensive Midfield,Jesús Molina,"Mar 29, 1988 (32)",Mexico,£1.44m
+23,Defensive Midfield,José Juan Vázquez,"Mar 14, 1988 (32)",Mexico,£1.44m
+6,Central Midfield,Dieter Villalpando,"Aug 4, 1991 (28)",Mexico,£1.08m
+26,Central Midfield,Fernando Beltrán,"May 8, 1998 (21)",Mexico,£653k
+10,Attacking Midfield,Javier López,"Sep 17, 1994 (25)",Mexico,£1.80m
+19,Left Winger,Jesús Angulo,"Feb 20, 1997 (23)",Mexico,£3.15m
+29,Left Winger,Alejandro Zendejas,"Feb 7, 1998 (22)",Mexico / United States,£473k
+15,Right Winger,Uriel Antuna,"Aug 21, 1997 (22)",Mexico,£3.60m
+11,Right Winger,Isaac Brizuela,"Aug 28, 1990 (29)",Mexico / United States,£2.88m
+9,Centre-Forward,José Macías,"Sep 22, 1999 (20)",Mexico,£8.10m
+7,Centre-Forward,Alexis Vega,"Nov 25, 1997 (22)",Mexico,£2.16m
+24,Centre-Forward,Oribe Peralta,"Jan 12, 1984 (36)",Mexico,£720k
+18,Centre-Forward,Ronaldo Cisneros,"Jan 8, 1997 (23)",Mexico,£293k
+33,Goalkeeper,Sebastián Jurado,"Sep 28, 1997 (22)",Mexico,£2.52m
+1,Goalkeeper,Jesús Corona,"Jan 26, 1981 (39)",Mexico,£720k
+12,Goalkeeper,Guillermo Allison,"Sep 25, 1990 (29)",Mexico,£293k
+30,Goalkeeper,Andrés Gudiño,"Jan 27, 1997 (23)",Mexico,£90k
+24,Centre-Back,Juan Escobar,"Jul 11, 1995 (24)",Paraguay,£2.88m
+5,Centre-Back,Igor Lichnovsky,"Mar 7, 1994 (26)",Chile,£1.80m
+4,Centre-Back,Julio Domínguez,"Nov 8, 1987 (32)",Mexico,£1.26m
+23,Centre-Back,Pablo Aguilar,"Apr 2, 1987 (33)",Paraguay / Mexico,£1.26m
+16,Left-Back,Adrián Aldrete,"Jun 14, 1988 (31)",Mexico,£1.26m
+3,Left-Back,Jaiber Jiménez,"Jan 7, 1995 (25)",Mexico,£90k
+7,Defensive Midfield,Luis Romo,"Jun 5, 1995 (24)",Mexico,£2.16m
+22,Defensive Midfield,Rafael Baca,"Sep 11, 1989 (30)",Mexico,£1.80m
+200,Defensive Midfield,Jorge García,"Jan 22, 2002 (18)",Mexico,£90k
+31,Central Midfield,Orbelín Pineda,"Mar 24, 1996 (24)",Mexico,£4.32m
+19,Central Midfield,Yoshimar Yotún,"Apr 7, 1990 (30)",Peru,£2.52m
+20,Central Midfield,Alexis Gutiérrez,"Feb 26, 2000 (20)",Mexico,£405k
+10,Left Midfield,Alex Castro,"Mar 8, 1994 (26)",Colombia,£1.26m
+25,Attacking Midfield,Roberto Alvarado,"Sep 7, 1998 (21)",Mexico,£6.03m
+8,Attacking Midfield,Pablo Ceppelini,"Sep 11, 1991 (28)",Uruguay / Italy,£1.44m
+6,Attacking Midfield,Jonathan Borja,"Apr 5, 1994 (26)",Ecuador,£855k
+14,Left Winger,Misael Domínguez,"Oct 27, 1999 (20)",Mexico,£473k
+11,Right Winger,Elías Hernández,"Apr 29, 1988 (31)",Mexico,£1.80m
+21,Centre-Forward,Jonathan Rodríguez,"Jul 6, 1993 (26)",Uruguay,£2.88m
+9,Centre-Forward,Milton Caraglio,"Dec 1, 1988 (31)",Argentina / Italy,£2.16m
+18,Centre-Forward,Lucas Passerini,"Jul 16, 1994 (25)",Argentina,£495k
+29,Centre-Forward,Santiago Giménez,"Apr 18, 2001 (19)",Mexico / Argentina,£90k
+1,Goalkeeper,Jonathan Orozco,"May 12, 1986 (33)",Mexico,£1.44m
+28,Goalkeeper,Carlos Acevedo,"Apr 19, 1996 (24)",Mexico,£293k
+21,Centre-Back,Dória,"Nov 8, 1994 (25)",Brazil,£3.60m
+5,Centre-Back,Félix Torres,"Jan 11, 1997 (23)",Ecuador,£1.26m
+20,Centre-Back,Hugo Rodríguez,"Jun 8, 1990 (29)",Mexico,£1.08m
+3,Centre-Back,Óscar Bernal,"Sep 28, 1995 (24)",Mexico,£293k
+17,Left-Back,Gerardo Arteaga,"Sep 7, 1998 (21)",Mexico / Spain,£2.88m
+2,Right-Back,Josecarlos van Rankin,"May 14, 1993 (26)",Mexico / Netherlands,£1.26m
+8,Right-Back,Carlos Orrantía,"Feb 1, 1991 (29)",Mexico,£1.26m
+16,Defensive Midfield,Ulises Rivas,"Jan 25, 1996 (24)",Mexico / Italy,£2.16m
+14,Defensive Midfield,David Andrade,"Jul 9, 1993 (26)",Mexico,£360k
+11,Central Midfield,Fernando Gorriarán,"Nov 27, 1994 (25)",Uruguay,£2.52m
+6,Central Midfield,Alan Cervantes,"Jan 17, 1998 (22)",Mexico,£653k
+10,Attacking Midfield,Diego Valdés,"Jan 30, 1994 (26)",Chile,£3.60m
+191,Attacking Midfield,Adrián Lozano,"May 8, 1999 (20)",Mexico,£1.62m
+15,Left Winger,Brian Lozano,"Feb 23, 1994 (26)",Uruguay,£5.40m
+18,Left Winger,Ayrton Preciado,"Jul 17, 1994 (25)",Ecuador,£1.44m
+13,Right Winger,Erick Castillo,"Feb 5, 1995 (25)",Ecuador,£1.80m
+7,Right Winger,Brayan Garnica,"May 27, 1996 (23)",Mexico,£1.08m
+9,Centre-Forward,Julio Furch,"Jul 29, 1989 (30)",Argentina,£4.32m
+29,Centre-Forward,Octavio Rivero,"Jan 24, 1992 (28)",Uruguay / Spain,£1.26m
+19,Centre-Forward,Eduardo Aguirre,"Aug 3, 1998 (21)",Mexico,£315k
+5,Goalkeeper,Óscar Ustari,"Jul 3, 1986 (33)",Argentina / Italy,£720k
+13,Goalkeeper,Alfonso Blanco,"Jul 31, 1987 (32)",Mexico,£720k
+25,Goalkeeper,Carlos Moreno,"Jan 29, 1998 (22)",Mexico,£180k
+23,Centre-Back,Óscar Murillo,"Apr 18, 1988 (32)",Colombia,£1.62m
+21,Centre-Back,Gustavo Cabral,"Oct 14, 1985 (34)",Argentina / Spain,£1.08m
+2,Centre-Back,Denil Maldonado,"May 26, 1998 (21)",Honduras,£473k
+4,Centre-Back,Miguel Tapias,"Jan 9, 1997 (23)",Mexico,£293k
+14,Left-Back,Érick Aguirre,"Feb 23, 1997 (23)",Mexico,£2.88m
+12,Left-Back,Emmanuel García,"Dec 28, 1989 (30)",Mexico,£1.26m
+-,Left-Back,Víctor Mora,"Mar 17, 2000 (20)",Mexico,£405k
+6,Right-Back,Raúl López,"Feb 23, 1993 (27)",Mexico,£1.80m
+32,Right-Back,Kevin Álvarez,"Jan 15, 1999 (21)",Mexico,£473k
+16,Defensive Midfield,Jorge Hernández,"Jun 10, 1989 (30)",Mexico,£2.52m
+33,Central Midfield,Luis Chávez,"Jan 15, 1996 (24)",Mexico,£855k
+24,Central Midfield,Pablo López,"Jan 7, 1998 (22)",Mexico,£653k
+9,Left Midfield,Rubens Sambueza,"Jan 1, 1984 (36)",Argentina / Mexico,£720k
+-,Attacking Midfield,Víctor Guzmán,"Feb 3, 1995 (25)",Mexico,£5.40m
+18,Attacking Midfield,Christian Cueva,"Nov 23, 1991 (28)",Peru,£2.88m
+30,Left Winger,Romario Ibarra,"Sep 24, 1994 (25)",Ecuador,£1.26m
+15,Right Winger,Juan Iturbe,"Jun 4, 1993 (26)",Paraguay / Argentina,£1.44m
+10,Right Winger,Cristian Souza,"Aug 28, 1995 (24)",Uruguay,£720k
+19,Right Winger,Francisco Figueroa,"Jun 13, 1999 (20)",Mexico,£405k
+7,Centre-Forward,Víctor Dávila,"Nov 4, 1997 (22)",Chile,£2.88m
+29,Centre-Forward,Franco Jara,"Jul 15, 1988 (31)",Argentina,£2.16m
+34,Centre-Forward,Roberto de la Rosa,"Jan 4, 2000 (20)",Mexico,£810k
+11,Centre-Forward,Colin Kazim-Richards,"Aug 26, 1986 (33)",Turkey / England,£495k
+30,Goalkeeper,Rodolfo Cota,"Jul 3, 1987 (32)",Mexico,£1.62m
+32,Goalkeeper,Sebastián Fassi,"May 19, 1993 (26)",Mexico / Argentina,£360k
+1,Goalkeeper,Guillermo Pozos,"Jul 7, 1992 (27)",Mexico,£180k
+6,Centre-Back,William Tesillo,"Feb 2, 1990 (30)",Colombia,£2.16m
+4,Centre-Back,Andrés Mosquera,"Feb 20, 1990 (30)",Colombia,£1.80m
+28,Centre-Back,Stiven Barreiro,"Jun 19, 1994 (25)",Colombia,£1.08m
+22,Centre-Back,Miguel Herrera,"Apr 3, 1989 (31)",Mexico,£855k
+23,Centre-Back,Ramiro González,"Nov 21, 1990 (29)",Argentina / Chile,£720k
+35,Centre-Back,Ignacio González,"Jul 8, 1984 (35)",Mexico,-
+11,Left-Back,Yairo Moreno,"Apr 4, 1995 (25)",Colombia,£2.88m
+24,Left-Back,Osvaldo Rodríguez,"Sep 10, 1996 (23)",Mexico,£495k
+5,Right-Back,Fernando Navarro,"Apr 18, 1989 (31)",Mexico,£1.44m
+3,Right-Back,Gil Burón,"Jun 11, 1994 (25)",Mexico,£270k
+12,Defensive Midfield,José Rodríguez,"Jun 17, 1996 (23)",Mexico,£2.16m
+18,Defensive Midfield,Pedro Aquino,"Apr 13, 1995 (25)",Peru,£1.08m
+15,Central Midfield,Iván Ochoa,"Aug 13, 1996 (23)",Mexico,£293k
+10,Attacking Midfield,Luis Montes,"May 15, 1986 (33)",Mexico,£1.26m
+16,Left Winger,Jean Meneses,"Mar 16, 1993 (27)",Chile,£1.80m
+20,Left Winger,Jown Cardona,"Jan 9, 1995 (25)",Colombia,£495k
+13,Right Winger,Ángel Mena,"Jan 21, 1988 (32)",Ecuador,£2.16m
+8,Right Winger,Joel Campbell,"Jun 26, 1992 (27)",Costa Rica,£1.80m
+7,Right Winger,Ismael Sosa,"Jan 18, 1987 (33)",Argentina,£1.44m
+9,Centre-Forward,Leonardo Ramos,"Aug 21, 1989 (30)",Argentina,£2.16m
+19,Centre-Forward,Nicolás Sosa,"Apr 6, 1996 (24)",Uruguay,£585k
+14,Centre-Forward,Jesús Godínez,"Jan 20, 1997 (23)",Mexico,£428k
+25,Goalkeeper,Gibrán Lajud,"Dec 25, 1993 (26)",Mexico,£1.08m
+13,Goalkeeper,Carlos Higuera,"Nov 18, 2000 (19)",Mexico,£270k
+21,Goalkeeper,Luis Michel,"Jul 21, 1979 (40)",Mexico,£180k
+30,Defender,Víctor Torres,"Aug 27, 1995 (24)",Mexico,£270k
+6,Centre-Back,Leandro González Pírez,"Feb 26, 1992 (28)",Argentina / Portugal,£1.80m
+3,Centre-Back,Miguel Barbieri,"Aug 24, 1993 (26)",Argentina,£720k
+4,Centre-Back,Jordan Silva,"Jul 30, 1994 (25)",Mexico,£293k
+34,Centre-Back,Víctor Guzmán,"Mar 7, 2002 (18)",Mexico,£90k
+18,Left-Back,Aldo Cruz,"Sep 24, 1997 (22)",Mexico,£1.26m
+22,Right-Back,Vladimir Loroña,"Nov 16, 1998 (21)",Mexico,£1.17m
+28,Right-Back,Omar Mendoza,"Oct 28, 1988 (31)",Mexico,£1.08m
+32,Right-Back,Bryan Colula,"Apr 6, 1996 (24)",Mexico,£360k
+35,Right-Back,Luis Martínez,"Apr 3, 1999 (21)",Mexico,£270k
+5,Defensive Midfield,Kevin Balanta,"Apr 28, 1997 (22)",Colombia,£1.44m
+23,Defensive Midfield,Luis Gamíz,"Apr 4, 2000 (20)",Mexico,£180k
+8,Central Midfield,Ignacio Rivero,"Apr 10, 1992 (28)",Uruguay,£1.80m
+17,Central Midfield,Alexis Castro,"Oct 18, 1994 (25)",Argentina,£1.17m
+14,Central Midfield,Christian Rivera,"Jan 14, 1996 (24)",Colombia,£1.08m
+31,Central Midfield,Emilio Sánchez,"Jun 16, 1994 (25)",Mexico,£428k
+26,Central Midfield,Jared Romero,"Dec 16, 2000 (19)",Mexico,£90k
+10,Attacking Midfield,Miler Bolaños,"Jun 1, 1990 (29)",Ecuador,£2.88m
+15,Attacking Midfield,Edwin Cardona,"Dec 8, 1992 (27)",Colombia,£2.88m
+24,Attacking Midfield,César Falletti,"Dec 2, 1992 (27)",Uruguay / Italy,£1.26m
+20,Left Winger,Mauro Laínez,"May 9, 1996 (23)",Mexico,£585k
+9,Right Winger,Ángel Sepúlveda,"Feb 15, 1991 (29)",Mexico,£720k
+7,Centre-Forward,Camilo Sanvezzo,"Jul 21, 1988 (31)",Brazil / Mexico,£1.80m
+11,Centre-Forward,Bryan Angulo,"Nov 30, 1995 (24)",Ecuador,£1.80m
+19,Centre-Forward,Érick Torres,"Jan 19, 1993 (27)",Mexico,£428k
+27,Centre-Forward,Daniel López,"Mar 14, 2000 (20)",Mexico,£405k
+29,Centre-Forward,Edgar López,"Apr 21, 1999 (20)",Mexico,£270k
+12,Goalkeeper,Camilo Vargas,"Mar 9, 1989 (31)",Colombia,£1.08m
+1,Goalkeeper,José Hernández,"May 1, 1997 (22)",Mexico,£585k
+23,Goalkeeper,Edgar Hernández,"Aug 27, 1982 (37)",Mexico,£270k
+2,Centre-Back,Hugo Nervo,"Jan 6, 1991 (29)",Argentina,£1.80m
+30,Centre-Back,Germán Conti,"Jun 3, 1994 (25)",Argentina / Italy,£1.44m
+5,Centre-Back,Anderson Santamaría,"Jan 10, 1992 (28)",Peru,£720k
+27,Left-Back,Jesús Angulo,"Jan 30, 1998 (22)",Mexico,£2.43m
+16,Left-Back,Daniel Aguilar,"Feb 6, 1998 (22)",Mexico,£180k
+2,Right-Back,José Abella,"Feb 10, 1994 (26)",Mexico,£1.44m
+3,Right-Back,Ismael Govea,"Feb 20, 1997 (23)",Mexico,£1.44m
+15,Right-Back,Diego Barbosa,"Sep 25, 1996 (23)",Mexico,£495k
+14,Right-Back,Brayton Vázquez,"Mar 5, 1998 (22)",Mexico,£90k
+21,Defensive Midfield,Lorenzo Reyes,"Jun 13, 1991 (28)",Chile,£1.80m
+6,Defensive Midfield,Edgar Zaldívar,"Oct 17, 1996 (23)",Mexico,£720k
+10,Attacking Midfield,Luciano Acosta,"May 31, 1994 (25)",Argentina,£4.32m
+13,Left Winger,Ulises Cardona,"Nov 13, 1998 (21)",Mexico,£563k
+26,Right Winger,Jesús Isijara,"Sep 26, 1989 (30)",Mexico,£1.26m
+7,Right Winger,Jairo Torres,"Jul 5, 2000 (19)",Mexico,£1.17m
+17,Right Winger,Mauricio Cuero,"Jan 28, 1993 (27)",Colombia,£720k
+20,Right Winger,Manuel Balda,"Feb 21, 1992 (28)",Ecuador / Spain,£585k
+9,Centre-Forward,Ignacio Jeraldino,"Dec 6, 1995 (24)",Chile / Italy,£1.80m
+29,Centre-Forward,Javier Correa,"Oct 23, 1992 (27)",Argentina,£1.44m
+25,Centre-Forward,Édson Rivera,"Nov 4, 1991 (28)",Mexico,£293k
+28,Centre-Forward,Eleuterio Jiménez,"Jan 20, 1998 (22)",Mexico,£90k
+1,Goalkeeper,Alfredo Talavera,"Sep 18, 1982 (37)",Mexico,£720k
+22,Goalkeeper,Luis García,"Dec 31, 1992 (27)",Mexico,£360k
+12,Goalkeeper,Ramón Pasquel,"Jun 22, 1996 (23)",Mexico,£90k
+14,Defender,Diego Rosales,"Apr 4, 1998 (22)",Mexico,£270k
+4,Centre-Back,Adrián Mora,"Aug 15, 1997 (22)",Mexico,£1.26m
+2,Centre-Back,Fernando Tobio,"Oct 18, 1989 (30)",Argentina / Italy,£1.08m
+5,Centre-Back,Jonathan Maidana,"Jul 29, 1985 (34)",Argentina / Italy,£855k
+30,Centre-Back,Luis Hernández,"Feb 2, 1998 (22)",Mexico,£810k
+26,Centre-Back,Gastón Sauro,"Feb 23, 1990 (30)",Argentina / Italy,£720k
+6,Left-Back,Aníbal Chalá,"May 9, 1996 (23)",Ecuador,£1.08m
+29,Right-Back,Rodrigo Salinas,"May 9, 1988 (31)",Mexico,£1.08m
+23,Right-Back,Richard Ruiz,"Jan 14, 1986 (34)",Mexico,£360k
+24,Midfielder,Ricardo Cruz,"Aug 30, 1997 (22)",Mexico,£180k
+28,Midfielder,Víctor Jaramillo,"Nov 12, 1998 (21)",Mexico,£90k
+15,Defensive Midfield,Antonio Ríos,"Oct 24, 1988 (31)",Mexico,£1.44m
+16,Defensive Midfield,Javier Güemez,"Oct 17, 1991 (28)",Mexico,£1.44m
+8,Central Midfield,William da Silva,"Nov 20, 1986 (33)",Brazil / Mexico,£1.08m
+7,Central Midfield,Alan Medina,"Aug 19, 1997 (22)",Mexico,£720k
+20,Central Midfield,Kevin Escamilla,"Feb 21, 1994 (26)",Mexico,£585k
+10,Left Midfield,Diego,"Mar 9, 1988 (32)",Brazil,£720k
+18,Attacking Midfield,Leonardo Fernández,"Nov 8, 1998 (21)",Uruguay,£810k
+11,Attacking Midfield,Federico Mancuello,"Mar 26, 1989 (31)",Argentina / Italy,£720k
+21,Left Winger,Carlos Cisneros,"Aug 30, 1993 (26)",Mexico,£720k
+17,Right Winger,Felipe Pardo,"Aug 17, 1990 (29)",Colombia,£1.80m
+13,Centre-Forward,Michael Estrada,"Apr 7, 1996 (24)",Ecuador,£2.16m
+9,Centre-Forward,Emanuel Gigliotti,"May 20, 1987 (32)",Argentina / France,£1.44m
+25,Centre-Forward,Alexis Canelo,"Feb 3, 1992 (28)",Argentina,£1.44m
+13,Goalkeeper,Gil Alcalá,"Jul 29, 1992 (27)",Mexico,£1.26m
+23,Goalkeeper,Gerardo Ruiz,"Sep 5, 1985 (34)",Mexico,£293k
+31,Goalkeeper,Benny Díaz,"Dec 15, 1998 (21)",Mexico / United States,£90k
+2,Centre-Back,Julián Velázquez,"Oct 23, 1990 (29)",Argentina,£1.44m
+25,Centre-Back,Alexis Pérez,"Mar 25, 1994 (26)",Colombia,£1.26m
+4,Centre-Back,Jair Pereira,"Jul 7, 1986 (33)",Mexico,£855k
+6,Centre-Back,Jorge Aguilar,"Feb 4, 1993 (27)",Paraguay,£293k
+5,Centre-Back,Víctor Milke,"Jan 24, 1995 (25)",Mexico / Spain,£270k
+34,Left-Back,Cadete,"Jun 24, 1994 (25)",Spain,£585k
+15,Left-Back,Idekel Domínguez,"Jun 2, 2000 (19)",Mexico,£563k
+12,Left-Back,Betsiel Hernández,"Dec 22, 1994 (25)",Mexico,£293k
+28,Right-Back,Jaime Gómez,"Jul 17, 1993 (26)",Mexico,£1.80m
+-,Right-Back,George Corral,"Jul 18, 1990 (29)",Mexico,£855k
+18,Defensive Midfield,Jefferson Orejuela,"Feb 14, 1993 (27)",Ecuador,£855k
+3,Defensive Midfield,Michael Pérez,"Feb 14, 1993 (27)",Mexico,£720k
+10,Central Midfield,Clifford Aboagye,"Feb 11, 1995 (25)",Ghana,£2.16m
+27,Right Midfield,Omar Arellano,"Jun 18, 1987 (32)",Mexico,£270k
+14,Attacking Midfield,Marcel Ruiz,"Oct 26, 2000 (19)",Mexico,£3.24m
+21,Attacking Midfield,Antonio Nava,"Sep 9, 1999 (20)",Mexico,£405k
+11,Left Winger,Fabián Castillo,"Jun 17, 1992 (27)",Colombia,£1.26m
+24,Left Winger,Jonathan Perlaza,"Sep 13, 1997 (22)",Ecuador,£855k
+19,Left Winger,Jonathan Suarez,"Feb 22, 1997 (23)",United States / Mexico,£293k
+20,Right Winger,Jeison Lucumí,"Apr 8, 1995 (25)",Colombia,£720k
+7,Right Winger,Brian Figueroa,"May 28, 1999 (20)",Mexico,£563k
+29,Right Winger,Jordi Cortizo,"Jun 30, 1996 (23)",Mexico,£360k
+32,Centre-Forward,Ariel Nahuelpán,"Oct 15, 1987 (32)",Argentina / Mexico,£1.26m
+33,Centre-Forward,Enrique Triverio,"Dec 31, 1988 (31)",Argentina,£720k
+17,Centre-Forward,Paolo Yrizar,"Aug 6, 1997 (22)",Mexico,£293k
+1,Goalkeeper,Alfredo Saldívar,"Feb 9, 1990 (30)",Mexico,£1.26m
+20,Goalkeeper,Julio González,"Apr 23, 1991 (28)",Mexico / Spain,£293k
+35,Goalkeeper,Rodrigo Cerecedo,"Feb 14, 1998 (22)",Mexico,£90k
+4,Centre-Back,Luis Quintana,"Feb 3, 1992 (28)",Mexico,£1.44m
+5,Centre-Back,Johan Vásquez,"Oct 22, 1998 (21)",Mexico,£810k
+18,Centre-Back,Nicolás Freire,"Feb 18, 1994 (26)",Argentina,£720k
+34,Centre-Back,Diego Rodríguez,"Jul 16, 1997 (22)",Mexico,£90k
+19,Left-Back,Alejandro Mayorga,"May 29, 1997 (22)",Mexico,£428k
+16,Left-Back,Jero Rodríguez,"Mar 24, 1999 (21)",Mexico,£45k
+2,Right-Back,Alan Mozo,"Apr 5, 1997 (23)",Mexico,£1.80m
+10,Defensive Midfield,Andrés Iniestra,"Mar 11, 1996 (24)",Mexico,£1.80m
+22,Central Midfield,Juan Vigón,"Jul 20, 1991 (28)",Mexico,£1.80m
+7,Central Midfield,David Cabrera,"Sep 7, 1989 (30)",Mexico,£1.08m
+13,Central Midfield,Leonel López,"May 24, 1994 (25)",Mexico,£855k
+27,Attacking Midfield,Favio Álvarez,"Jan 23, 1993 (27)",Argentina,£585k
+12,Left Winger,Víctor Malcorra,"Jul 24, 1987 (32)",Argentina,£1.80m
+15,Left Winger,Sebastián Saucedo,"Jan 22, 1997 (23)",United States / Mexico,£495k
+8,Right Winger,Pablo Barrera,"Jun 21, 1987 (32)",Mexico,£1.08m
+24,Right Winger,Alejandro Zamudio,"Feb 25, 1998 (22)",Mexico,£180k
+32,Centre-Forward,Carlos González,"Feb 4, 1993 (27)",Paraguay,£2.88m
+29,Centre-Forward,Juan Dinenno,"Aug 28, 1994 (25)",Argentina,£2.16m
+21,Centre-Forward,Martín Barragán,"Jul 14, 1991 (28)",Mexico,£720k
+1,Goalkeeper,Hugo González,"Aug 1, 1990 (29)",Mexico,£1.44m
+25,Goalkeeper,Yosgart Gutiérrez,"Mar 15, 1981 (39)",Mexico,£180k
+31,Centre-Back,Ventura Alvarado,"Aug 16, 1992 (27)",United States / Mexico,£2.16m
+4,Centre-Back,Alexis Doldán,"Feb 27, 1997 (23)",Paraguay,£720k
+24,Centre-Back,Rodrigo Noya,"Jan 31, 1990 (30)",Mexico / Argentina,£720k
+18,Left-Back,Raúl Sandoval,"Jan 18, 2000 (20)",Mexico,£405k
+16,Left-Back,Jairo González,"Feb 27, 1992 (28)",Mexico,£360k
+12,Right-Back,Carlos Guzmán,"May 19, 1994 (25)",Mexico,£1.08m
+22,Right-Back,Ricardo Chávez,"Nov 19, 1994 (25)",Mexico,£1.08m
+26,Right-Back,Julio González,"Jun 28, 1992 (27)",Paraguay,£720k
+13,Midfielder,Jorge Lumbreras,"Dec 21, 2002 (17)",Mexico,£180k
+-,Midfielder,Abel Aguirre,"Oct 6, 1996 (23)",Mexico,£90k
+23,Defensive Midfield,Claudio Baeza,"Dec 23, 1993 (26)",Chile,£2.16m
+188,Defensive Midfield,Fernando Plascencia,"Jun 18, 1999 (20)",Mexico,£653k
+8,Defensive Midfield,Fernando Arce,"Nov 27, 1996 (23)",United States / Mexico,£428k
+6,Defensive Midfield,Luis Pérez,"Mar 15, 1989 (31)",Mexico,£293k
+20,Central Midfield,Yerko Leiva,"Jun 14, 1998 (21)",Chile,£315k
+29,Attacking Midfield,Diego Chávez,"May 11, 1995 (24)",Mexico,£720k
+17,Left Winger,Juan Delgado,"Mar 5, 1993 (27)",Chile,£1.08m
+11,Left Winger,Kevin Mercado,"Jan 28, 1995 (25)",Ecuador,£360k
+35,Left Winger,José Cobián,"Sep 14, 1998 (21)",Mexico,£90k
+7,Right Winger,Daniel Álvarez,"Jul 22, 1994 (25)",Mexico,£495k
+9,Centre-Forward,Mauro Quiroga,"Dec 7, 1989 (30)",Argentina,£2.52m
+10,Centre-Forward,Maximiliano Salas,"Dec 1, 1997 (22)",Argentina,£2.16m
+27,Centre-Forward,Guillermo Madrigal,"Feb 10, 1993 (27)",Mexico,£495k
+30,Centre-Forward,Ricardo Monreal,"Feb 10, 2001 (19)",Mexico,£270k
+1,Goalkeeper,Felipe Rodríguez,"Apr 3, 1989 (31)",Mexico,£855k
+13,Goalkeeper,Axel Werner,"Feb 28, 1996 (24)",Argentina,£360k
+23,Goalkeeper,Roberto Salcedo,"Dec 19, 1991 (28)",Mexico,£270k
+30,Centre-Back,Fernando León,"Apr 11, 1993 (27)",Ecuador,£1.44m
+20,Centre-Back,Unai Bilbao,"Feb 4, 1994 (26)",Spain,£1.08m
+28,Centre-Back,Dionicio Escalante,"May 12, 1990 (29)",Mexico,£495k
+33,Centre-Back,Mario de Luna,"Jan 5, 1988 (32)",Mexico,£495k
+5,Centre-Back,Mario Álvarez,"Feb 2, 1982 (38)",Spain,£293k
+3,Centre-Back,Juan Portales,"May 16, 1996 (23)",Mexico,£270k
+16,Left-Back,Luis Reyes,"Apr 3, 1991 (29)",Mexico,£1.44m
+4,Right-Back,Matías Catalán,"Aug 19, 1992 (27)",Argentina / Chile,£1.44m
+-,Midfielder,Raúl Miranda,"Aug 12, 1998 (21)",Mexico,£90k
+6,Defensive Midfield,Felipe Gallegos,"Dec 3, 1991 (28)",Chile / Italy,£1.80m
+8,Defensive Midfield,Fernando Madrigal,"Nov 12, 1991 (28)",Mexico,£428k
+15,Central Midfield,Jorge Sánchez,"Feb 14, 1993 (27)",Mexico,£720k
+2,Central Midfield,Juan Castro,"Dec 21, 1991 (28)",Mexico,£495k
+18,Right Midfield,Camilo Mayada,"Jan 8, 1991 (29)",Uruguay / Argentina,£1.26m
+27,Attacking Midfield,Óscar Macías,"Jul 9, 1998 (21)",Mexico,£653k
+12,Attacking Midfield,Javier Cortés,"Jul 20, 1989 (30)",Mexico,£585k
+29,Left Winger,Diego Hernández,"Aug 13, 1999 (20)",Mexico,£270k
+11,Right Winger,Anderson Julio,"May 31, 1996 (23)",Ecuador,£1.80m
+7,Right Winger,Germán Berterame,"Nov 13, 1998 (21)",Argentina,£653k
+14,Right Winger,Carlos Gutiérrez,"Feb 5, 1999 (21)",Mexico,£270k
+9,Centre-Forward,Nicolás Ibáñez,"Aug 23, 1994 (25)",Argentina,£2.52m
+22,Centre-Forward,Ian González,"Feb 11, 1993 (27)",Spain,£585k
+19,Centre-Forward,Diego Pineda,"Apr 8, 1995 (25)",Mexico,£270k
+13,Goalkeeper,Sebastián Sosa,"Aug 19, 1986 (33)",Uruguay,£1.08m
+35,Goalkeeper,Luis Malagón,"Mar 2, 1997 (23)",Mexico,£270k
+33,Goalkeeper,Ricardo Gutiérrez,"Jun 17, 1997 (22)",Mexico,£180k
+31,Defender,Jesús González,"Jan 1, 1998 (22)",Mexico,
+6,Centre-Back,Sebastián Vegas,"Dec 4, 1996 (23)",Chile,£2.88m
+16,Centre-Back,José Ortiz,"Nov 16, 1998 (21)",Colombia,£810k
+24,Centre-Back,Gabriel Achilier,"Mar 24, 1985 (35)",Ecuador,£720k
+5,Centre-Back,Carlos Vargas,"Feb 14, 1999 (21)",Mexico,£563k
+18,Centre-Back,Gonzalo Jara,"Aug 29, 1985 (34)",Chile,£315k
+22,Centre-Back,Andrés Catalán,"Aug 20, 2000 (19)",Mexico,£270k
+2,Left-Back,Efraín Velarde,"Apr 18, 1986 (34)",Mexico,£720k
+23,Right-Back,Joaquín Martínez,"Feb 22, 1987 (33)",Mexico,£720k
+34,Right-Back,Mario Trejo,"Mar 9, 1999 (21)",Mexico,£405k
+3,Right-Back,Paolo Medina,"May 28, 1999 (20)",Mexico / Spain,£270k
+26,Defensive Midfield,Aldo Rocha,"Nov 6, 1992 (27)",Mexico,£1.80m
+25,Defensive Midfield,Roberto Meraz,"Aug 4, 1999 (20)",Mexico,£653k
+8,Central Midfield,Mario Osuna,"Aug 20, 1988 (31)",Mexico,£1.08m
+20,Central Midfield,Rodrigo Millar,"Nov 3, 1981 (38)",Chile / Mexico,£495k
+32,Central Midfield,Eduardo Del Ángel,"Apr 8, 2000 (20)",Mexico,£315k
+19,Attacking Midfield,Lucas Villafañez,"Oct 4, 1991 (28)",Argentina / Paraguay,£1.08m
+10,Attacking Midfield,Jorge Valdivia,"Oct 19, 1983 (36)",Chile / Venezuela,£473k
+14,Left Winger,Martín Rodríguez,"Aug 5, 1994 (25)",Chile,£1.08m
+15,Left Winger,Cándido Ramírez,"Jun 5, 1993 (26)",Mexico,£360k
+21,Right Winger,Luis Mendoza,"Feb 3, 1990 (30)",Mexico,£1.26m
+9,Centre-Forward,Fernando Aristeguieta,"Apr 9, 1992 (28)",Venezuela / Spain,£1.08m
+27,Centre-Forward,Miguel Sansores,"Apr 28, 1991 (28)",Mexico,£720k
+1,Centre-Forward,César Huerta,"Dec 3, 2000 (19)",Mexico,£315k
+34,Goalkeeper,Nicolás Vikonis,"Apr 6, 1984 (36)",Uruguay / Lithuania,£495k
+1,Goalkeeper,Jesús Rodríguez,"May 21, 1993 (26)",Mexico,£293k
+12,Goalkeeper,Santiago Ramírez,"Feb 16, 1997 (23)",Mexico,£90k
+33,Centre-Back,Néstor Vidrio,"Mar 22, 1989 (31)",Mexico,£720k
+25,Centre-Back,Maximiliano Perg,"Sep 16, 1991 (28)",Uruguay,£585k
+23,Centre-Back,Alonso Zamora,"Nov 7, 1991 (28)",Mexico,£428k
+4,Centre-Back,Luis Haquín,"Nov 15, 1997 (22)",Bolivia,£293k
+31,Centre-Back,Emanuel Gularte,"Sep 30, 1997 (22)",Uruguay,£270k
+2,Left-Back,Brayan Angulo,"Nov 2, 1989 (30)",Colombia / Spain,£1.26m
+5,Left-Back,Daniel Arreola,"Oct 8, 1985 (34)",Mexico,£360k
+16,Left-Back,Gerardo Rodríguez,"Apr 16, 1985 (35)",Mexico,£360k
+28,Right-Back,Jesús Paganoni,"Sep 24, 1988 (31)",Mexico / Italy,£720k
+6,Defensive Midfield,Javier Salas,"Aug 20, 1993 (26)",Mexico,£1.26m
+17,Defensive Midfield,Jesús Zavala,"Jul 21, 1987 (32)",Mexico,£720k
+3,Central Midfield,Alejandro Chumacero,"Apr 22, 1991 (28)",Bolivia,£1.26m
+8,Central Midfield,Osvaldo Martínez,"Apr 8, 1986 (34)",Paraguay / Mexico,£1.08m
+7,Central Midfield,Pablo González,"Jul 7, 1992 (27)",Mexico,£855k
+15,Central Midfield,Jorge Espericueta,"Aug 9, 1994 (25)",Mexico,£293k
+18,Attacking Midfield,Christian Marrugo,"Jul 18, 1985 (34)",Colombia,£495k
+22,Left Winger,Omar Fernández,"Feb 11, 1993 (27)",Colombia,£855k
+30,Left Winger,Maximiliano Araújo,"Feb 15, 2000 (20)",Uruguay,£810k
+10,Left Winger,Christian Tabó,"Nov 23, 1993 (26)",Uruguay,£720k
+26,Left Winger,Salvador Reyes,"May 4, 1998 (21)",Mexico,£405k
+27,Right Winger,Alan Acosta,"Dec 19, 1996 (23)",Mexico,£360k
+-,Right Winger,Félix Micolta,"Nov 30, 1989 (30)",Colombia,£270k
+21,Right Winger,Jorge Zárate,"Jan 20, 1992 (28)",Mexico,£270k
+9,Centre-Forward,Ángel Zaldívar,"Feb 8, 1994 (26)",Mexico,£1.26m
+11,Centre-Forward,Cristian Menéndez,"Apr 2, 1988 (32)",Argentina,£1.08m
+19,Centre-Forward,Eduardo Herrera,"Jul 25, 1988 (31)",Mexico,£720k
+20,Centre-Forward,Diego Abella,"Oct 22, 1998 (21)",Mexico,£315k
+14,Centre-Forward,Santiago Ormeño,"Feb 4, 1994 (26)",Mexico / Peru,£180k
+31,Goalkeeper,Iván Vázquez,"Dec 14, 1982 (37)",Mexico,£293k
+1,Goalkeeper,Enrique Palos,"May 31, 1986 (33)",Mexico,£270k
+12,Goalkeeper,Marco Canales,"Aug 8, 2001 (18)",Mexico / United States,£90k
+25,Centre-Back,Gustavo Velázquez,"Apr 17, 1991 (29)",Paraguay,£855k
+2,Centre-Back,Jonathan Lacerda,"Feb 7, 1987 (33)",Uruguay,£585k
+4,Centre-Back,Elio Castro,"Jul 26, 1988 (31)",Mexico,£495k
+19,Centre-Back,Bruno Romo,"May 20, 1989 (30)",Chile,£225k
+3,Centre-Back,Luis López,"Aug 25, 1993 (26)",Mexico,£180k
+33,Centre-Back,César Gandara,"Nov 2, 1998 (21)",Mexico,£90k
+26,Left-Back,Alberto Acosta,"Feb 26, 1988 (32)",Mexico,£720k
+7,Left-Back,Maximiliano Olivera,"Mar 5, 1992 (28)",Uruguay / Spain,£360k
+5,Left-Back,Éder Borelli,"Nov 26, 1990 (29)",Mexico / Argentina,£293k
+24,Left-Back,José Rodríguez,"Jul 22, 1998 (21)",Mexico,£180k
+13,Right-Back,Israel Jiménez,"Aug 13, 1989 (30)",Mexico,£855k
+21,Right-Back,Francisco Nevarez,"Dec 3, 2000 (19)",Mexico,£270k
+16,Defensive Midfield,José Esquivel,"Jan 7, 1998 (22)",Mexico,£1.62m
+15,Defensive Midfield,Jefferson Intriago,"Jun 4, 1996 (23)",Ecuador,£1.26m
+20,Defensive Midfield,Manuel Viniegra,"Apr 26, 1988 (31)",Mexico,£180k
+22,Central Midfield,Martín Rabuñal,"Apr 22, 1994 (25)",Uruguay,£720k
+14,Attacking Midfield,William Mendieta,"Jan 9, 1989 (31)",Paraguay,£720k
+6,Left Winger,Gael Sandoval,"Nov 5, 1995 (24)",Mexico,£1.08m
+28,Left Winger,Omar Panuco,"Jul 27, 2001 (18)",Mexico,
+11,Right Winger,Mauro Fernández,"Mar 31, 1989 (31)",Argentina / Spain,£585k
+17,Right Winger,Flavio Santos,"Mar 1, 1987 (33)",Mexico,£495k
+10,Right Winger,Edy Brambila,"Jan 15, 1986 (34)",Mexico,£293k
+29,Right Winger,José Gurrola,"Apr 15, 1998 (22)",Mexico,£180k
+8,Centre-Forward,Darío Lezcano,"Jun 30, 1990 (29)",Paraguay,£1.80m
+27,Centre-Forward,Diego Rolán,"Mar 24, 1993 (27)",Uruguay,£1.80m
+18,Centre-Forward,Ángelo Sagal,"Apr 18, 1993 (27)",Chile,£1.44m
+-,Centre-Forward,Gabriel Hachen,"Oct 16, 1990 (29)",Argentina,£428k
+23,Centre-Forward,Brian Rubio,"Nov 9, 1996 (23)",Mexico,£203k
+9,Centre-Forward,Leandro Carrijó,"Sep 3, 1985 (34)",Brazil,£180k
